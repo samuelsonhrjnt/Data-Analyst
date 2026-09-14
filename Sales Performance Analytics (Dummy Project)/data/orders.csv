@@ -1,0 +1,1201 @@
+order_id,order_date,customer_id,ship_mode,status,payment_method
+ORD-00001,2025-08-29 15:28:00,CUST-0175,Standard Class,Completed,E-Wallet
+ORD-00002,2026-05-10 08:16:00,CUST-0245,Second Class,Completed,Transfer Bank
+ORD-00003,2026-02-25 09:25:00,CUST-0252,Second Class,Completed,Transfer Bank
+ORD-00004,2025-10-23 18:43:00,CUST-0028,Standard Class,Completed,E-Wallet
+ORD-00005,2025-03-18 20:36:00,CUST-0156,Second Class,Completed,Transfer Bank
+ORD-00006,2025-05-08 09:35:00,CUST-0214,Second Class,Completed,E-Wallet
+ORD-00007,2026-02-02 16:24:00,CUST-0231,Standard Class,Completed,COD
+ORD-00008,2025-06-02 21:37:00,CUST-0220,Standard Class,Completed,Credit Card
+ORD-00009,2025-10-19 17:03:00,CUST-0051,First Class,Completed,E-Wallet
+ORD-00010,2025-11-17 11:16:00,CUST-0042,Standard Class,Returned,E-Wallet
+ORD-00011,2025-05-03 10:35:00,CUST-0039,Standard Class,Completed,E-Wallet
+ORD-00012,2025-01-02 14:28:00,CUST-0241,Standard Class,Completed,Credit Card
+ORD-00013,2025-01-17 11:18:00,CUST-0145,Standard Class,Completed,COD
+ORD-00014,2025-02-06 18:14:00,CUST-0136,Standard Class,Completed,E-Wallet
+ORD-00015,2025-08-06 09:34:00,CUST-0116,First Class,Completed,E-Wallet
+ORD-00016,2026-04-11 12:52:00,CUST-0073,Standard Class,Completed,Transfer Bank
+ORD-00017,2025-01-31 10:50:00,CUST-0158,Standard Class,Completed,Credit Card
+ORD-00018,2025-08-13 09:29:00,CUST-0156,Standard Class,Completed,COD
+ORD-00019,2026-04-28 12:32:00,CUST-0277,Second Class,Completed,COD
+ORD-00020,2025-08-13 09:38:00,CUST-0021,First Class,Completed,COD
+ORD-00021,2026-01-12 13:38:00,CUST-0129,Standard Class,Completed,Transfer Bank
+ORD-00022,2025-02-16 11:43:00,CUST-0295,First Class,Completed,Transfer Bank
+ORD-00023,2026-01-27 18:52:00,CUST-0138,First Class,Completed,Transfer Bank
+ORD-00024,2026-01-26 20:11:00,CUST-0241,Standard Class,Completed,COD
+ORD-00025,2026-04-15 12:11:00,CUST-0300,Standard Class,Completed,COD
+ORD-00026,2025-11-22 21:31:00,CUST-0047,Standard Class,Completed,COD
+ORD-00027,2025-06-28 14:21:00,CUST-0165,Standard Class,Completed,Transfer Bank
+ORD-00028,2026-03-16 10:21:00,CUST-0211,Same Day,Completed,COD
+ORD-00029,2025-05-28 18:25:00,CUST-0282,Second Class,Completed,Transfer Bank
+ORD-00030,2025-08-21 09:20:00,CUST-0130,First Class,Completed,Credit Card
+ORD-00031,2025-03-01 20:25:00,CUST-0264,Second Class,Completed,Transfer Bank
+ORD-00032,2025-12-03 21:34:00,CUST-0237,First Class,Completed,COD
+ORD-00033,2025-01-28 11:33:00,CUST-0186,Second Class,Completed,COD
+ORD-00034,2025-11-17 15:48:00,CUST-0027,Standard Class,Completed,E-Wallet
+ORD-00035,2025-05-17 16:08:00,CUST-0148,First Class,Cancelled,COD
+ORD-00036,2026-03-27 19:31:00,CUST-0063,Same Day,Completed,Transfer Bank
+ORD-00037,2026-05-14 18:38:00,CUST-0123,Second Class,Completed,E-Wallet
+ORD-00038,2025-06-09 16:00:00,CUST-0283,Second Class,Completed,COD
+ORD-00039,2025-02-17 11:53:00,CUST-0059,Standard Class,Completed,COD
+ORD-00040,2026-04-30 09:41:00,CUST-0079,Same Day,Completed,COD
+ORD-00041,2026-04-23 19:18:00,CUST-0261,Standard Class,Completed,Credit Card
+ORD-00042,2025-08-01 21:30:00,CUST-0242,Standard Class,Completed,E-Wallet
+ORD-00043,2025-08-22 16:09:00,CUST-0197,Second Class,Completed,E-Wallet
+ORD-00044,2026-04-17 17:32:00,CUST-0070,Standard Class,Completed,Transfer Bank
+ORD-00045,2025-05-22 20:50:00,CUST-0213,Standard Class,Completed,Credit Card
+ORD-00046,2026-04-24 20:32:00,CUST-0137,Standard Class,Completed,Transfer Bank
+ORD-00047,2025-05-25 19:19:00,CUST-0297,Second Class,Completed,COD
+ORD-00048,2026-03-20 10:28:00,CUST-0276,Second Class,Completed,COD
+ORD-00049,2025-06-26 13:35:00,CUST-0279,Standard Class,Completed,COD
+ORD-00050,2025-08-22 13:55:00,CUST-0097,Standard Class,Completed,E-Wallet
+ORD-00051,2025-10-20 14:14:00,CUST-0211,Standard Class,Completed,Transfer Bank
+ORD-00052,2025-06-12 19:30:00,CUST-0196,Second Class,Completed,COD
+ORD-00053,2025-12-06 20:52:00,CUST-0078,Standard Class,Completed,COD
+ORD-00054,2026-05-09 08:08:00,CUST-0258,Second Class,Completed,Credit Card
+ORD-00055,2026-03-22 09:55:00,CUST-0226,Standard Class,Completed,Transfer Bank
+ORD-00056,2025-09-27 15:00:00,CUST-0074,First Class,Completed,COD
+ORD-00057,2026-03-22 18:09:00,CUST-0039,Second Class,Completed,COD
+ORD-00058,2026-02-05 12:21:00,CUST-0204,Second Class,Completed,Transfer Bank
+ORD-00059,2026-03-13 13:54:00,CUST-0274,Standard Class,Completed,COD
+ORD-00060,2026-05-04 13:40:00,CUST-0250,Second Class,Completed,Transfer Bank
+ORD-00061,2025-11-13 09:15:00,CUST-0148,Standard Class,Completed,E-Wallet
+ORD-00062,2026-01-18 09:27:00,CUST-0051,Second Class,Completed,Transfer Bank
+ORD-00063,2025-08-16 10:44:00,CUST-0154,Second Class,Completed,Transfer Bank
+ORD-00064,2025-01-24 13:50:00,CUST-0029,Standard Class,Completed,Credit Card
+ORD-00065,2025-07-03 13:27:00,CUST-0075,Standard Class,Completed,E-Wallet
+ORD-00066,2025-09-29 14:36:00,CUST-0093,Standard Class,Completed,E-Wallet
+ORD-00067,2025-03-31 09:39:00,CUST-0196,Standard Class,Completed,E-Wallet
+ORD-00068,2025-09-12 17:09:00,CUST-0119,Standard Class,Completed,COD
+ORD-00069,2025-11-23 12:29:00,CUST-0131,Second Class,Completed,Transfer Bank
+ORD-00070,2026-04-06 20:29:00,CUST-0148,Standard Class,Completed,E-Wallet
+ORD-00071,2025-02-07 15:22:00,CUST-0154,Standard Class,Completed,COD
+ORD-00072,2025-12-20 12:29:00,CUST-0155,Standard Class,Completed,E-Wallet
+ORD-00073,2025-07-16 21:30:00,CUST-0055,Standard Class,Completed,E-Wallet
+ORD-00074,2025-07-15 17:22:00,CUST-0295,Standard Class,Completed,Credit Card
+ORD-00075,2025-12-25 12:01:00,CUST-0203,First Class,Completed,Credit Card
+ORD-00076,2025-01-05 17:55:00,CUST-0026,Standard Class,Completed,COD
+ORD-00077,2026-03-03 12:49:00,CUST-0118,Standard Class,Completed,Credit Card
+ORD-00078,2025-04-23 18:12:00,CUST-0129,Standard Class,Completed,E-Wallet
+ORD-00079,2025-11-18 09:57:00,CUST-0021,Standard Class,Completed,Credit Card
+ORD-00080,2026-02-08 15:02:00,CUST-0297,Standard Class,Completed,Credit Card
+ORD-00081,2026-01-10 10:05:00,CUST-0152,Standard Class,Completed,Credit Card
+ORD-00082,2026-01-18 14:11:00,CUST-0103,Standard Class,Completed,E-Wallet
+ORD-00083,2026-02-07 16:56:00,CUST-0188,Standard Class,Completed,Credit Card
+ORD-00084,2026-03-02 10:16:00,CUST-0247,Standard Class,Completed,Credit Card
+ORD-00085,2026-01-18 21:21:00,CUST-0059,Standard Class,Completed,COD
+ORD-00086,2026-05-09 09:09:00,CUST-0116,First Class,Completed,COD
+ORD-00087,2026-05-11 21:51:00,CUST-0286,Second Class,Completed,Credit Card
+ORD-00088,2025-02-16 20:25:00,CUST-0008,Standard Class,Completed,Credit Card
+ORD-00089,2025-10-02 09:29:00,CUST-0189,Standard Class,Completed,Credit Card
+ORD-00090,2025-10-27 14:52:00,CUST-0191,Standard Class,Completed,Transfer Bank
+ORD-00091,2025-12-12 11:30:00,CUST-0013,Standard Class,Completed,Credit Card
+ORD-00092,2026-04-14 17:14:00,CUST-0033,Standard Class,Completed,COD
+ORD-00093,2026-04-11 19:19:00,CUST-0210,Standard Class,Completed,Transfer Bank
+ORD-00094,2025-03-13 08:02:00,CUST-0156,Standard Class,Completed,COD
+ORD-00095,2025-03-01 09:15:00,CUST-0276,Second Class,Returned,E-Wallet
+ORD-00096,2025-07-18 15:23:00,CUST-0277,Standard Class,Completed,COD
+ORD-00097,2025-10-28 19:46:00,CUST-0080,First Class,Completed,COD
+ORD-00098,2025-12-02 09:53:00,CUST-0251,Same Day,Completed,COD
+ORD-00099,2026-04-26 12:02:00,CUST-0190,Standard Class,Completed,E-Wallet
+ORD-00100,2025-08-16 15:15:00,CUST-0186,Standard Class,Completed,Transfer Bank
+ORD-00101,2025-12-18 13:34:00,CUST-0184,Second Class,Completed,Transfer Bank
+ORD-00102,2025-07-23 12:12:00,CUST-0063,First Class,Completed,COD
+ORD-00103,2025-02-16 18:13:00,CUST-0011,Standard Class,Cancelled,Transfer Bank
+ORD-00104,2026-02-07 13:15:00,CUST-0065,Standard Class,Completed,E-Wallet
+ORD-00105,2025-02-05 21:48:00,CUST-0284,Second Class,Completed,E-Wallet
+ORD-00106,2025-10-28 11:52:00,CUST-0120,Standard Class,Completed,Credit Card
+ORD-00107,2026-02-01 10:50:00,CUST-0002,Standard Class,Completed,Credit Card
+ORD-00108,2026-03-16 10:08:00,CUST-0277,Second Class,Completed,Credit Card
+ORD-00109,2026-02-13 10:07:00,CUST-0014,Standard Class,Completed,E-Wallet
+ORD-00110,2025-01-08 13:50:00,CUST-0122,Standard Class,Completed,Credit Card
+ORD-00111,2025-01-09 10:16:00,CUST-0027,Standard Class,Completed,E-Wallet
+ORD-00112,2026-01-15 14:33:00,CUST-0059,Second Class,Completed,Transfer Bank
+ORD-00113,2025-09-01 15:49:00,CUST-0186,Standard Class,Cancelled,Transfer Bank
+ORD-00114,2025-08-20 16:14:00,CUST-0023,Second Class,Completed,Credit Card
+ORD-00115,2025-08-23 18:01:00,CUST-0032,First Class,Completed,COD
+ORD-00116,2026-03-10 14:27:00,CUST-0056,Standard Class,Completed,COD
+ORD-00117,2025-12-31 15:04:00,CUST-0042,Standard Class,Completed,Credit Card
+ORD-00118,2025-11-08 10:04:00,CUST-0065,Second Class,Completed,Credit Card
+ORD-00119,2025-11-16 18:37:00,CUST-0281,Standard Class,Completed,Credit Card
+ORD-00120,2025-07-15 17:33:00,CUST-0151,First Class,Completed,COD
+ORD-00121,2025-09-16 17:27:00,CUST-0051,Standard Class,Completed,Transfer Bank
+ORD-00122,2026-03-13 18:41:00,CUST-0283,Second Class,Completed,E-Wallet
+ORD-00123,2025-08-09 15:56:00,CUST-0117,Standard Class,Cancelled,COD
+ORD-00124,2025-06-23 21:29:00,CUST-0205,Same Day,Completed,COD
+ORD-00125,2026-01-09 09:20:00,CUST-0219,First Class,Completed,Credit Card
+ORD-00126,2025-12-07 12:23:00,CUST-0079,Standard Class,Completed,COD
+ORD-00127,2025-02-04 09:53:00,CUST-0044,Second Class,Completed,Transfer Bank
+ORD-00128,2025-08-10 09:47:00,CUST-0191,First Class,Completed,E-Wallet
+ORD-00129,2025-10-12 08:37:00,CUST-0288,Standard Class,Completed,Credit Card
+ORD-00130,2025-12-10 09:26:00,CUST-0182,Second Class,Completed,COD
+ORD-00131,2026-03-21 19:03:00,CUST-0148,Standard Class,Completed,Credit Card
+ORD-00132,2025-06-30 09:36:00,CUST-0260,Standard Class,Returned,E-Wallet
+ORD-00133,2025-03-21 18:30:00,CUST-0115,Second Class,Completed,Transfer Bank
+ORD-00134,2025-06-29 21:35:00,CUST-0189,Second Class,Completed,Transfer Bank
+ORD-00135,2026-01-26 12:36:00,CUST-0116,Second Class,Completed,COD
+ORD-00136,2026-03-09 16:49:00,CUST-0286,Standard Class,Returned,Transfer Bank
+ORD-00137,2025-11-08 18:53:00,CUST-0137,First Class,Completed,Transfer Bank
+ORD-00138,2025-04-03 12:44:00,CUST-0159,Standard Class,Completed,Credit Card
+ORD-00139,2025-06-29 08:11:00,CUST-0074,Standard Class,Completed,COD
+ORD-00140,2025-02-05 10:47:00,CUST-0016,Standard Class,Returned,Transfer Bank
+ORD-00141,2026-01-18 16:13:00,CUST-0193,Standard Class,Completed,COD
+ORD-00142,2025-08-21 13:10:00,CUST-0190,First Class,Completed,Credit Card
+ORD-00143,2026-01-05 13:49:00,CUST-0291,Second Class,Completed,Transfer Bank
+ORD-00144,2026-03-29 08:09:00,CUST-0081,Standard Class,Completed,Transfer Bank
+ORD-00145,2025-12-12 09:17:00,CUST-0227,First Class,Completed,COD
+ORD-00146,2025-09-06 17:28:00,CUST-0213,Standard Class,Completed,Credit Card
+ORD-00147,2025-04-21 20:32:00,CUST-0059,Second Class,Completed,Credit Card
+ORD-00148,2025-08-09 09:18:00,CUST-0250,Standard Class,Completed,Credit Card
+ORD-00149,2025-01-24 11:25:00,CUST-0029,Second Class,Completed,Transfer Bank
+ORD-00150,2025-04-15 12:13:00,CUST-0071,Standard Class,Completed,Credit Card
+ORD-00151,2025-05-29 13:07:00,CUST-0004,Standard Class,Completed,COD
+ORD-00152,2026-01-18 14:11:00,CUST-0067,First Class,Completed,COD
+ORD-00153,2025-09-30 19:14:00,CUST-0257,Second Class,Completed,Credit Card
+ORD-00154,2025-02-06 14:55:00,CUST-0022,Standard Class,Completed,COD
+ORD-00155,2025-01-10 15:58:00,CUST-0040,Second Class,Completed,Credit Card
+ORD-00156,2025-10-22 14:36:00,CUST-0208,Standard Class,Completed,COD
+ORD-00157,2025-05-29 09:25:00,CUST-0011,Second Class,Completed,Credit Card
+ORD-00158,2025-03-29 20:39:00,CUST-0236,First Class,Completed,Credit Card
+ORD-00159,2025-02-15 14:54:00,CUST-0055,Standard Class,Completed,E-Wallet
+ORD-00160,2025-08-12 17:25:00,CUST-0269,First Class,Completed,Transfer Bank
+ORD-00161,2025-07-22 21:19:00,CUST-0174,Standard Class,Completed,E-Wallet
+ORD-00162,2025-06-20 20:10:00,CUST-0040,Second Class,Completed,Transfer Bank
+ORD-00163,2025-09-29 16:12:00,CUST-0179,Second Class,Completed,Credit Card
+ORD-00164,2026-01-08 21:41:00,CUST-0076,Standard Class,Completed,E-Wallet
+ORD-00165,2025-02-22 10:16:00,CUST-0102,Standard Class,Completed,E-Wallet
+ORD-00166,2025-11-05 10:48:00,CUST-0039,Standard Class,Completed,E-Wallet
+ORD-00167,2026-05-03 20:40:00,CUST-0253,Second Class,Completed,COD
+ORD-00168,2026-01-22 17:48:00,CUST-0297,Standard Class,Completed,COD
+ORD-00169,2025-12-15 17:41:00,CUST-0166,First Class,Returned,Credit Card
+ORD-00170,2025-03-19 15:04:00,CUST-0241,Standard Class,Completed,COD
+ORD-00171,2025-11-20 12:50:00,CUST-0141,Standard Class,Completed,Transfer Bank
+ORD-00172,2025-06-30 16:04:00,CUST-0159,Standard Class,Completed,COD
+ORD-00173,2025-08-20 08:03:00,CUST-0189,Standard Class,Returned,Credit Card
+ORD-00174,2025-02-09 18:55:00,CUST-0047,Standard Class,Completed,COD
+ORD-00175,2025-08-25 17:35:00,CUST-0022,Standard Class,Completed,COD
+ORD-00176,2026-04-11 20:36:00,CUST-0097,Standard Class,Completed,Credit Card
+ORD-00177,2025-11-06 15:32:00,CUST-0078,Standard Class,Completed,Transfer Bank
+ORD-00178,2025-08-19 09:51:00,CUST-0176,Standard Class,Completed,Transfer Bank
+ORD-00179,2025-09-16 18:11:00,CUST-0021,Standard Class,Completed,E-Wallet
+ORD-00180,2025-12-29 15:28:00,CUST-0269,Standard Class,Completed,E-Wallet
+ORD-00181,2025-07-06 13:58:00,CUST-0145,First Class,Completed,COD
+ORD-00182,2025-07-29 20:21:00,CUST-0027,Standard Class,Completed,Credit Card
+ORD-00183,2025-02-03 13:06:00,CUST-0286,Second Class,Completed,COD
+ORD-00184,2025-05-26 12:46:00,CUST-0077,Standard Class,Completed,Credit Card
+ORD-00185,2025-02-11 17:42:00,CUST-0073,Second Class,Completed,Credit Card
+ORD-00186,2025-06-08 18:44:00,CUST-0201,Standard Class,Completed,E-Wallet
+ORD-00187,2025-11-01 19:05:00,CUST-0159,Same Day,Completed,COD
+ORD-00188,2025-11-26 20:21:00,CUST-0066,Standard Class,Completed,Transfer Bank
+ORD-00189,2025-11-27 18:27:00,CUST-0261,Standard Class,Completed,Credit Card
+ORD-00190,2025-01-10 13:19:00,CUST-0093,Standard Class,Completed,E-Wallet
+ORD-00191,2025-06-24 20:31:00,CUST-0099,Second Class,Completed,E-Wallet
+ORD-00192,2025-03-12 10:04:00,CUST-0152,Standard Class,Completed,Transfer Bank
+ORD-00193,2025-09-17 20:34:00,CUST-0270,Second Class,Completed,Transfer Bank
+ORD-00194,2025-12-05 13:56:00,CUST-0068,Standard Class,Completed,COD
+ORD-00195,2025-03-20 10:11:00,CUST-0085,Standard Class,Completed,COD
+ORD-00196,2025-01-23 14:23:00,CUST-0122,Second Class,Completed,COD
+ORD-00197,2025-11-09 12:48:00,CUST-0230,Standard Class,Completed,E-Wallet
+ORD-00198,2025-10-01 11:19:00,CUST-0241,Standard Class,Completed,E-Wallet
+ORD-00199,2025-07-08 18:36:00,CUST-0226,Second Class,Completed,COD
+ORD-00200,2026-01-29 12:49:00,CUST-0196,Standard Class,Completed,COD
+ORD-00201,2026-05-10 10:52:00,CUST-0103,Standard Class,Completed,E-Wallet
+ORD-00202,2026-03-23 12:03:00,CUST-0247,Second Class,Completed,Credit Card
+ORD-00203,2025-10-11 09:45:00,CUST-0265,Standard Class,Completed,Transfer Bank
+ORD-00204,2025-05-26 09:48:00,CUST-0083,Standard Class,Completed,Credit Card
+ORD-00205,2025-08-19 16:09:00,CUST-0224,Standard Class,Completed,Transfer Bank
+ORD-00206,2026-04-30 11:52:00,CUST-0231,Second Class,Completed,Credit Card
+ORD-00207,2026-04-22 08:26:00,CUST-0028,First Class,Completed,COD
+ORD-00208,2025-09-15 13:15:00,CUST-0198,Standard Class,Completed,Transfer Bank
+ORD-00209,2025-07-11 11:01:00,CUST-0164,Standard Class,Completed,Transfer Bank
+ORD-00210,2026-03-06 19:41:00,CUST-0172,First Class,Completed,E-Wallet
+ORD-00211,2025-03-12 08:18:00,CUST-0242,Standard Class,Completed,E-Wallet
+ORD-00212,2026-01-24 19:30:00,CUST-0230,Standard Class,Completed,Transfer Bank
+ORD-00213,2026-04-09 09:01:00,CUST-0132,Second Class,Completed,E-Wallet
+ORD-00214,2026-03-04 10:35:00,CUST-0271,Second Class,Completed,COD
+ORD-00215,2025-02-26 20:18:00,CUST-0122,Standard Class,Cancelled,Credit Card
+ORD-00216,2025-03-04 08:15:00,CUST-0215,Standard Class,Completed,COD
+ORD-00217,2025-02-02 09:53:00,CUST-0256,First Class,Completed,Transfer Bank
+ORD-00218,2025-11-20 16:36:00,CUST-0124,Standard Class,Completed,E-Wallet
+ORD-00219,2025-05-30 14:00:00,CUST-0181,Standard Class,Completed,E-Wallet
+ORD-00220,2025-10-20 14:11:00,CUST-0044,Standard Class,Completed,Credit Card
+ORD-00221,2025-02-04 16:34:00,CUST-0260,Standard Class,Completed,Transfer Bank
+ORD-00222,2025-07-19 21:30:00,CUST-0023,Standard Class,Completed,COD
+ORD-00223,2025-07-11 12:47:00,CUST-0009,Second Class,Completed,Credit Card
+ORD-00224,2026-02-08 09:22:00,CUST-0124,Second Class,Completed,Transfer Bank
+ORD-00225,2026-01-31 17:47:00,CUST-0171,Standard Class,Completed,E-Wallet
+ORD-00226,2025-01-23 13:34:00,CUST-0174,Same Day,Completed,E-Wallet
+ORD-00227,2026-03-02 20:43:00,CUST-0238,Standard Class,Completed,COD
+ORD-00228,2025-11-20 10:51:00,CUST-0070,Standard Class,Completed,Transfer Bank
+ORD-00229,2026-01-02 20:29:00,CUST-0019,First Class,Completed,Credit Card
+ORD-00230,2025-04-14 08:50:00,CUST-0103,Standard Class,Completed,Transfer Bank
+ORD-00231,2025-06-11 12:32:00,CUST-0204,Standard Class,Completed,COD
+ORD-00232,2025-05-10 08:48:00,CUST-0098,Second Class,Completed,Credit Card
+ORD-00233,2025-07-02 21:49:00,CUST-0025,Second Class,Completed,Credit Card
+ORD-00234,2025-05-20 09:51:00,CUST-0189,Same Day,Completed,COD
+ORD-00235,2026-04-01 14:47:00,CUST-0226,Standard Class,Returned,COD
+ORD-00236,2025-06-23 10:31:00,CUST-0255,Standard Class,Completed,Credit Card
+ORD-00237,2026-04-19 20:33:00,CUST-0137,Second Class,Returned,Transfer Bank
+ORD-00238,2026-01-08 14:05:00,CUST-0221,Standard Class,Completed,E-Wallet
+ORD-00239,2025-10-07 12:20:00,CUST-0053,Second Class,Returned,Transfer Bank
+ORD-00240,2025-06-17 18:18:00,CUST-0157,Standard Class,Completed,COD
+ORD-00241,2025-11-05 19:27:00,CUST-0086,Second Class,Completed,COD
+ORD-00242,2025-06-29 15:02:00,CUST-0181,Second Class,Completed,COD
+ORD-00243,2025-05-21 18:50:00,CUST-0030,Second Class,Completed,Transfer Bank
+ORD-00244,2025-12-10 18:25:00,CUST-0187,Second Class,Completed,E-Wallet
+ORD-00245,2026-05-03 08:09:00,CUST-0225,Standard Class,Completed,Transfer Bank
+ORD-00246,2025-03-06 09:15:00,CUST-0188,First Class,Completed,Credit Card
+ORD-00247,2025-07-16 17:02:00,CUST-0079,Standard Class,Completed,COD
+ORD-00248,2026-05-01 13:23:00,CUST-0228,Standard Class,Completed,Transfer Bank
+ORD-00249,2025-10-21 10:33:00,CUST-0188,Standard Class,Completed,COD
+ORD-00250,2025-06-10 18:17:00,CUST-0128,First Class,Completed,Transfer Bank
+ORD-00251,2025-01-14 19:11:00,CUST-0256,Standard Class,Completed,COD
+ORD-00252,2026-04-13 16:07:00,CUST-0135,Second Class,Cancelled,Credit Card
+ORD-00253,2025-12-27 15:13:00,CUST-0147,Standard Class,Completed,COD
+ORD-00254,2025-04-13 09:08:00,CUST-0038,Standard Class,Completed,COD
+ORD-00255,2025-03-30 19:28:00,CUST-0045,Standard Class,Completed,Credit Card
+ORD-00256,2025-12-08 13:45:00,CUST-0034,Standard Class,Completed,Credit Card
+ORD-00257,2026-04-02 12:54:00,CUST-0081,Second Class,Completed,E-Wallet
+ORD-00258,2026-02-11 13:32:00,CUST-0115,Standard Class,Completed,Transfer Bank
+ORD-00259,2025-04-13 20:08:00,CUST-0122,Standard Class,Completed,COD
+ORD-00260,2025-01-14 13:35:00,CUST-0294,Second Class,Completed,Credit Card
+ORD-00261,2025-08-28 20:35:00,CUST-0067,First Class,Completed,Transfer Bank
+ORD-00262,2025-02-03 12:25:00,CUST-0246,Standard Class,Completed,COD
+ORD-00263,2026-01-29 14:52:00,CUST-0295,Standard Class,Completed,Transfer Bank
+ORD-00264,2025-03-06 13:41:00,CUST-0038,Second Class,Completed,COD
+ORD-00265,2025-08-27 18:33:00,CUST-0177,Standard Class,Completed,E-Wallet
+ORD-00266,2026-03-26 21:49:00,CUST-0283,Standard Class,Completed,E-Wallet
+ORD-00267,2026-01-29 10:27:00,CUST-0258,Standard Class,Completed,Transfer Bank
+ORD-00268,2026-03-02 09:33:00,CUST-0079,Standard Class,Completed,Credit Card
+ORD-00269,2025-03-26 10:20:00,CUST-0116,Standard Class,Completed,Credit Card
+ORD-00270,2026-05-01 16:57:00,CUST-0146,Standard Class,Completed,Transfer Bank
+ORD-00271,2025-05-09 11:40:00,CUST-0283,Second Class,Completed,Credit Card
+ORD-00272,2025-03-06 18:19:00,CUST-0274,Standard Class,Completed,Transfer Bank
+ORD-00273,2025-09-15 18:10:00,CUST-0298,Standard Class,Completed,E-Wallet
+ORD-00274,2025-03-29 18:39:00,CUST-0173,Second Class,Returned,Transfer Bank
+ORD-00275,2026-02-27 21:01:00,CUST-0042,Second Class,Completed,Transfer Bank
+ORD-00276,2026-05-01 18:49:00,CUST-0296,Standard Class,Completed,Credit Card
+ORD-00277,2025-11-30 11:49:00,CUST-0293,Standard Class,Completed,COD
+ORD-00278,2025-11-13 18:01:00,CUST-0255,First Class,Completed,Credit Card
+ORD-00279,2025-11-25 12:30:00,CUST-0126,Standard Class,Completed,COD
+ORD-00280,2025-06-02 15:04:00,CUST-0031,Standard Class,Completed,E-Wallet
+ORD-00281,2025-08-14 14:30:00,CUST-0238,Standard Class,Completed,E-Wallet
+ORD-00282,2025-06-24 17:09:00,CUST-0161,Second Class,Completed,Credit Card
+ORD-00283,2026-01-11 21:22:00,CUST-0205,Second Class,Completed,E-Wallet
+ORD-00284,2026-01-25 13:32:00,CUST-0288,Second Class,Completed,Transfer Bank
+ORD-00285,2025-06-13 11:29:00,CUST-0063,Standard Class,Completed,Credit Card
+ORD-00286,2025-08-19 11:09:00,CUST-0050,Standard Class,Completed,Transfer Bank
+ORD-00287,2025-05-29 14:55:00,CUST-0215,Standard Class,Completed,E-Wallet
+ORD-00288,2026-05-08 21:57:00,CUST-0082,Standard Class,Completed,Credit Card
+ORD-00289,2026-04-24 17:46:00,CUST-0161,Standard Class,Completed,E-Wallet
+ORD-00290,2026-01-26 10:31:00,CUST-0264,Standard Class,Completed,COD
+ORD-00291,2025-09-13 12:31:00,CUST-0012,Standard Class,Completed,Transfer Bank
+ORD-00292,2026-04-29 14:32:00,CUST-0235,First Class,Returned,E-Wallet
+ORD-00293,2025-04-21 17:22:00,CUST-0025,First Class,Cancelled,Transfer Bank
+ORD-00294,2025-05-25 15:38:00,CUST-0241,Standard Class,Completed,Credit Card
+ORD-00295,2025-10-02 08:54:00,CUST-0056,Standard Class,Completed,COD
+ORD-00296,2025-03-10 12:46:00,CUST-0188,First Class,Completed,COD
+ORD-00297,2025-07-07 08:25:00,CUST-0027,Standard Class,Completed,E-Wallet
+ORD-00298,2025-07-05 16:18:00,CUST-0038,Second Class,Completed,COD
+ORD-00299,2025-09-16 15:48:00,CUST-0282,First Class,Completed,Credit Card
+ORD-00300,2026-02-27 17:43:00,CUST-0061,Same Day,Completed,E-Wallet
+ORD-00301,2026-05-15 09:25:00,CUST-0192,Standard Class,Completed,Credit Card
+ORD-00302,2025-10-13 13:48:00,CUST-0074,Standard Class,Completed,E-Wallet
+ORD-00303,2025-11-05 16:25:00,CUST-0257,Second Class,Completed,Transfer Bank
+ORD-00304,2025-01-24 08:08:00,CUST-0171,Same Day,Completed,COD
+ORD-00305,2025-09-23 15:09:00,CUST-0264,Standard Class,Completed,E-Wallet
+ORD-00306,2025-06-17 17:20:00,CUST-0084,Second Class,Completed,COD
+ORD-00307,2025-11-12 19:53:00,CUST-0154,Standard Class,Returned,Credit Card
+ORD-00308,2025-09-17 21:32:00,CUST-0273,Second Class,Completed,COD
+ORD-00309,2025-12-29 17:19:00,CUST-0244,Standard Class,Completed,Transfer Bank
+ORD-00310,2025-07-08 13:43:00,CUST-0057,Standard Class,Completed,COD
+ORD-00311,2025-10-26 12:50:00,CUST-0014,Standard Class,Completed,COD
+ORD-00312,2025-05-16 18:50:00,CUST-0297,Standard Class,Completed,E-Wallet
+ORD-00313,2026-01-05 08:37:00,CUST-0246,Second Class,Completed,E-Wallet
+ORD-00314,2025-09-26 18:46:00,CUST-0195,Standard Class,Completed,E-Wallet
+ORD-00315,2026-02-25 18:15:00,CUST-0017,Standard Class,Completed,Transfer Bank
+ORD-00316,2025-04-08 08:28:00,CUST-0161,Second Class,Completed,COD
+ORD-00317,2025-03-19 14:44:00,CUST-0105,Second Class,Completed,COD
+ORD-00318,2025-09-14 20:39:00,CUST-0242,Standard Class,Completed,Transfer Bank
+ORD-00319,2025-12-28 10:33:00,CUST-0107,Second Class,Completed,Credit Card
+ORD-00320,2025-12-06 15:33:00,CUST-0193,Second Class,Completed,Credit Card
+ORD-00321,2026-05-05 10:29:00,CUST-0273,Standard Class,Completed,Credit Card
+ORD-00322,2025-10-07 13:43:00,CUST-0136,Standard Class,Completed,COD
+ORD-00323,2025-04-09 11:17:00,CUST-0286,Standard Class,Completed,Credit Card
+ORD-00324,2025-04-26 12:49:00,CUST-0148,Second Class,Completed,E-Wallet
+ORD-00325,2025-12-20 19:31:00,CUST-0163,Second Class,Completed,COD
+ORD-00326,2025-06-28 16:59:00,CUST-0141,Standard Class,Completed,Credit Card
+ORD-00327,2025-03-04 17:43:00,CUST-0279,Standard Class,Completed,COD
+ORD-00328,2026-04-04 14:52:00,CUST-0177,Standard Class,Completed,E-Wallet
+ORD-00329,2025-05-29 08:18:00,CUST-0041,Second Class,Completed,Credit Card
+ORD-00330,2026-04-19 15:41:00,CUST-0132,Standard Class,Completed,COD
+ORD-00331,2025-04-20 11:52:00,CUST-0276,Standard Class,Completed,Credit Card
+ORD-00332,2026-04-23 16:44:00,CUST-0140,Second Class,Completed,E-Wallet
+ORD-00333,2025-02-25 17:47:00,CUST-0123,First Class,Completed,E-Wallet
+ORD-00334,2025-01-26 18:57:00,CUST-0272,Standard Class,Completed,E-Wallet
+ORD-00335,2025-11-23 11:03:00,CUST-0052,First Class,Completed,COD
+ORD-00336,2025-06-19 19:30:00,CUST-0052,Standard Class,Completed,E-Wallet
+ORD-00337,2025-01-03 16:59:00,CUST-0081,Second Class,Completed,COD
+ORD-00338,2025-12-01 15:30:00,CUST-0103,Standard Class,Completed,Credit Card
+ORD-00339,2025-06-14 12:41:00,CUST-0031,Second Class,Completed,Transfer Bank
+ORD-00340,2025-11-30 17:14:00,CUST-0274,Standard Class,Completed,Transfer Bank
+ORD-00341,2026-04-13 10:26:00,CUST-0091,Second Class,Completed,Transfer Bank
+ORD-00342,2026-03-05 14:50:00,CUST-0254,Standard Class,Completed,E-Wallet
+ORD-00343,2026-04-25 19:55:00,CUST-0149,Same Day,Completed,Transfer Bank
+ORD-00344,2025-01-05 12:36:00,CUST-0055,Standard Class,Completed,Credit Card
+ORD-00345,2025-05-26 15:41:00,CUST-0279,Standard Class,Completed,COD
+ORD-00346,2026-04-01 10:54:00,CUST-0259,Second Class,Completed,COD
+ORD-00347,2025-05-20 11:51:00,CUST-0058,Second Class,Completed,Credit Card
+ORD-00348,2025-03-25 19:29:00,CUST-0132,Second Class,Completed,E-Wallet
+ORD-00349,2025-01-08 19:21:00,CUST-0152,Standard Class,Completed,E-Wallet
+ORD-00350,2025-03-31 17:54:00,CUST-0208,First Class,Completed,COD
+ORD-00351,2025-09-21 13:05:00,CUST-0206,Second Class,Cancelled,Transfer Bank
+ORD-00352,2025-04-05 10:30:00,CUST-0166,Same Day,Completed,E-Wallet
+ORD-00353,2025-01-04 12:24:00,CUST-0121,Standard Class,Completed,COD
+ORD-00354,2026-01-21 12:21:00,CUST-0155,Second Class,Completed,Transfer Bank
+ORD-00355,2025-05-14 18:23:00,CUST-0121,Standard Class,Completed,Transfer Bank
+ORD-00356,2025-12-08 09:29:00,CUST-0158,Second Class,Completed,E-Wallet
+ORD-00357,2025-07-27 18:32:00,CUST-0160,Standard Class,Completed,Transfer Bank
+ORD-00358,2025-11-24 12:23:00,CUST-0114,Standard Class,Completed,E-Wallet
+ORD-00359,2026-05-06 10:30:00,CUST-0079,First Class,Completed,COD
+ORD-00360,2026-01-18 17:23:00,CUST-0213,Second Class,Completed,COD
+ORD-00361,2026-01-23 16:51:00,CUST-0112,Standard Class,Completed,E-Wallet
+ORD-00362,2025-12-15 20:38:00,CUST-0042,Standard Class,Completed,COD
+ORD-00363,2025-09-28 19:23:00,CUST-0040,Standard Class,Completed,Transfer Bank
+ORD-00364,2025-02-01 21:35:00,CUST-0259,Standard Class,Completed,E-Wallet
+ORD-00365,2025-10-21 16:09:00,CUST-0085,Standard Class,Completed,Credit Card
+ORD-00366,2026-03-14 16:28:00,CUST-0060,Second Class,Cancelled,E-Wallet
+ORD-00367,2026-01-03 17:31:00,CUST-0047,Standard Class,Completed,COD
+ORD-00368,2026-02-19 08:29:00,CUST-0068,Standard Class,Completed,COD
+ORD-00369,2025-08-22 17:03:00,CUST-0287,Second Class,Completed,COD
+ORD-00370,2025-12-11 20:19:00,CUST-0012,Standard Class,Completed,COD
+ORD-00371,2025-05-11 21:00:00,CUST-0112,Standard Class,Completed,Transfer Bank
+ORD-00372,2025-01-24 14:22:00,CUST-0033,First Class,Completed,Transfer Bank
+ORD-00373,2026-04-24 09:59:00,CUST-0242,Standard Class,Completed,Transfer Bank
+ORD-00374,2025-05-27 14:11:00,CUST-0070,First Class,Completed,COD
+ORD-00375,2025-07-11 14:28:00,CUST-0194,First Class,Returned,COD
+ORD-00376,2025-02-11 18:42:00,CUST-0277,Standard Class,Completed,E-Wallet
+ORD-00377,2025-12-01 21:22:00,CUST-0061,Standard Class,Completed,E-Wallet
+ORD-00378,2025-10-03 14:33:00,CUST-0066,Standard Class,Completed,E-Wallet
+ORD-00379,2026-03-04 08:48:00,CUST-0012,Standard Class,Completed,Credit Card
+ORD-00380,2025-08-26 18:46:00,CUST-0279,Standard Class,Completed,COD
+ORD-00381,2025-09-30 14:52:00,CUST-0118,Second Class,Completed,E-Wallet
+ORD-00382,2025-08-24 13:09:00,CUST-0142,Second Class,Completed,E-Wallet
+ORD-00383,2026-04-25 19:48:00,CUST-0058,Second Class,Completed,Transfer Bank
+ORD-00384,2026-02-19 18:26:00,CUST-0009,First Class,Completed,E-Wallet
+ORD-00385,2025-04-16 09:06:00,CUST-0018,First Class,Completed,COD
+ORD-00386,2025-11-03 18:45:00,CUST-0025,Standard Class,Completed,E-Wallet
+ORD-00387,2026-01-15 08:25:00,CUST-0225,Standard Class,Completed,E-Wallet
+ORD-00388,2025-10-04 11:48:00,CUST-0029,Standard Class,Completed,E-Wallet
+ORD-00389,2025-09-15 12:14:00,CUST-0295,Second Class,Completed,Credit Card
+ORD-00390,2025-10-23 17:49:00,CUST-0165,Standard Class,Completed,E-Wallet
+ORD-00391,2025-06-04 10:42:00,CUST-0267,Standard Class,Completed,E-Wallet
+ORD-00392,2025-07-31 12:17:00,CUST-0032,Second Class,Completed,E-Wallet
+ORD-00393,2025-11-17 18:27:00,CUST-0285,First Class,Completed,COD
+ORD-00394,2025-01-25 13:41:00,CUST-0196,Standard Class,Completed,Credit Card
+ORD-00395,2025-12-23 14:26:00,CUST-0077,Standard Class,Completed,Credit Card
+ORD-00396,2025-07-12 10:48:00,CUST-0276,Standard Class,Completed,COD
+ORD-00397,2025-05-04 21:14:00,CUST-0154,First Class,Completed,E-Wallet
+ORD-00398,2026-02-17 15:58:00,CUST-0030,Second Class,Completed,COD
+ORD-00399,2026-05-11 14:35:00,CUST-0272,First Class,Completed,E-Wallet
+ORD-00400,2025-07-18 11:16:00,CUST-0105,Standard Class,Completed,Credit Card
+ORD-00401,2025-11-28 09:59:00,CUST-0231,Standard Class,Completed,Credit Card
+ORD-00402,2025-02-17 16:46:00,CUST-0098,Standard Class,Completed,Transfer Bank
+ORD-00403,2025-05-18 14:43:00,CUST-0021,Standard Class,Completed,Transfer Bank
+ORD-00404,2025-04-07 20:48:00,CUST-0287,First Class,Completed,E-Wallet
+ORD-00405,2025-09-03 11:55:00,CUST-0171,First Class,Completed,Credit Card
+ORD-00406,2026-05-05 08:13:00,CUST-0098,Standard Class,Completed,Transfer Bank
+ORD-00407,2026-01-18 20:30:00,CUST-0125,Standard Class,Completed,E-Wallet
+ORD-00408,2025-07-23 11:35:00,CUST-0165,Standard Class,Cancelled,Credit Card
+ORD-00409,2025-07-14 15:34:00,CUST-0184,Standard Class,Completed,Credit Card
+ORD-00410,2025-05-14 13:32:00,CUST-0255,Standard Class,Completed,COD
+ORD-00411,2025-02-20 20:46:00,CUST-0241,Standard Class,Completed,Credit Card
+ORD-00412,2026-04-14 11:23:00,CUST-0161,Second Class,Completed,COD
+ORD-00413,2025-01-24 17:55:00,CUST-0114,Standard Class,Completed,E-Wallet
+ORD-00414,2025-01-09 12:35:00,CUST-0300,Standard Class,Completed,COD
+ORD-00415,2025-06-01 10:12:00,CUST-0169,Standard Class,Completed,E-Wallet
+ORD-00416,2025-07-14 17:53:00,CUST-0126,Standard Class,Completed,COD
+ORD-00417,2025-10-09 18:43:00,CUST-0173,Standard Class,Completed,Credit Card
+ORD-00418,2026-01-26 21:31:00,CUST-0252,Standard Class,Completed,COD
+ORD-00419,2025-03-28 19:50:00,CUST-0181,Standard Class,Completed,E-Wallet
+ORD-00420,2025-03-13 19:34:00,CUST-0251,Standard Class,Completed,E-Wallet
+ORD-00421,2026-04-15 16:41:00,CUST-0031,Second Class,Completed,Transfer Bank
+ORD-00422,2026-03-06 21:04:00,CUST-0025,First Class,Completed,Transfer Bank
+ORD-00423,2025-07-31 10:53:00,CUST-0119,Second Class,Completed,Transfer Bank
+ORD-00424,2025-12-29 10:00:00,CUST-0112,Second Class,Completed,COD
+ORD-00425,2025-07-11 08:39:00,CUST-0248,Second Class,Completed,COD
+ORD-00426,2025-01-09 08:34:00,CUST-0283,Second Class,Completed,COD
+ORD-00427,2025-01-07 08:33:00,CUST-0141,Second Class,Completed,Credit Card
+ORD-00428,2025-01-09 16:52:00,CUST-0221,Standard Class,Completed,E-Wallet
+ORD-00429,2025-02-24 09:33:00,CUST-0077,First Class,Completed,E-Wallet
+ORD-00430,2025-04-09 17:33:00,CUST-0130,Standard Class,Completed,Credit Card
+ORD-00431,2025-05-17 20:25:00,CUST-0041,Second Class,Completed,Credit Card
+ORD-00432,2026-05-07 14:29:00,CUST-0290,Second Class,Completed,E-Wallet
+ORD-00433,2025-12-23 11:19:00,CUST-0042,Standard Class,Returned,Transfer Bank
+ORD-00434,2025-02-17 14:24:00,CUST-0194,Second Class,Completed,COD
+ORD-00435,2025-01-29 18:00:00,CUST-0088,Standard Class,Completed,Transfer Bank
+ORD-00436,2025-09-13 21:27:00,CUST-0170,Same Day,Completed,Transfer Bank
+ORD-00437,2026-04-04 16:58:00,CUST-0022,Standard Class,Completed,E-Wallet
+ORD-00438,2025-04-19 21:44:00,CUST-0291,Same Day,Completed,COD
+ORD-00439,2025-05-19 08:59:00,CUST-0039,First Class,Completed,Credit Card
+ORD-00440,2026-04-06 16:36:00,CUST-0017,Second Class,Completed,E-Wallet
+ORD-00441,2026-04-21 21:20:00,CUST-0009,Standard Class,Completed,E-Wallet
+ORD-00442,2025-10-28 10:48:00,CUST-0204,Standard Class,Completed,Transfer Bank
+ORD-00443,2025-06-03 10:36:00,CUST-0124,Standard Class,Completed,COD
+ORD-00444,2025-12-13 16:21:00,CUST-0197,First Class,Completed,E-Wallet
+ORD-00445,2026-02-09 19:46:00,CUST-0041,Standard Class,Completed,Credit Card
+ORD-00446,2025-01-28 09:27:00,CUST-0119,Second Class,Completed,Transfer Bank
+ORD-00447,2025-06-24 17:49:00,CUST-0204,Standard Class,Completed,Credit Card
+ORD-00448,2025-01-16 18:17:00,CUST-0231,Standard Class,Completed,COD
+ORD-00449,2025-04-27 13:35:00,CUST-0193,Standard Class,Completed,COD
+ORD-00450,2025-04-06 18:37:00,CUST-0195,Second Class,Completed,Transfer Bank
+ORD-00451,2026-01-31 17:18:00,CUST-0127,First Class,Completed,Transfer Bank
+ORD-00452,2025-02-12 12:09:00,CUST-0195,Standard Class,Returned,E-Wallet
+ORD-00453,2026-01-14 14:20:00,CUST-0185,Standard Class,Completed,Transfer Bank
+ORD-00454,2025-02-16 08:19:00,CUST-0228,Standard Class,Completed,Credit Card
+ORD-00455,2026-01-25 12:06:00,CUST-0068,Second Class,Completed,Transfer Bank
+ORD-00456,2025-04-06 14:28:00,CUST-0286,First Class,Completed,COD
+ORD-00457,2025-02-22 08:05:00,CUST-0182,Same Day,Completed,Transfer Bank
+ORD-00458,2025-11-02 17:50:00,CUST-0167,Second Class,Completed,COD
+ORD-00459,2025-01-07 12:26:00,CUST-0199,Standard Class,Completed,Transfer Bank
+ORD-00460,2026-01-07 16:57:00,CUST-0125,First Class,Completed,E-Wallet
+ORD-00461,2025-12-17 14:10:00,CUST-0072,Second Class,Completed,Credit Card
+ORD-00462,2025-06-04 12:31:00,CUST-0075,Second Class,Completed,Transfer Bank
+ORD-00463,2025-03-27 14:17:00,CUST-0216,Standard Class,Completed,Credit Card
+ORD-00464,2025-09-05 20:04:00,CUST-0185,Second Class,Completed,Credit Card
+ORD-00465,2026-04-29 11:46:00,CUST-0254,Standard Class,Completed,E-Wallet
+ORD-00466,2025-08-23 09:08:00,CUST-0156,Second Class,Completed,Transfer Bank
+ORD-00467,2026-05-01 14:21:00,CUST-0195,Second Class,Completed,Credit Card
+ORD-00468,2025-08-14 13:27:00,CUST-0070,Second Class,Completed,Credit Card
+ORD-00469,2025-06-14 17:44:00,CUST-0103,Second Class,Completed,COD
+ORD-00470,2025-06-10 10:25:00,CUST-0164,Standard Class,Completed,Credit Card
+ORD-00471,2026-01-12 19:40:00,CUST-0252,Second Class,Completed,E-Wallet
+ORD-00472,2025-06-16 14:17:00,CUST-0202,Second Class,Completed,Credit Card
+ORD-00473,2025-02-28 17:12:00,CUST-0280,Standard Class,Completed,E-Wallet
+ORD-00474,2025-12-16 20:35:00,CUST-0014,Standard Class,Completed,COD
+ORD-00475,2026-04-28 19:13:00,CUST-0225,Standard Class,Cancelled,Credit Card
+ORD-00476,2026-03-02 19:04:00,CUST-0210,Second Class,Completed,COD
+ORD-00477,2025-03-13 18:19:00,CUST-0124,Second Class,Completed,Credit Card
+ORD-00478,2025-12-04 10:45:00,CUST-0217,Second Class,Completed,COD
+ORD-00479,2025-02-07 15:38:00,CUST-0246,First Class,Completed,COD
+ORD-00480,2025-10-01 16:59:00,CUST-0215,Standard Class,Completed,Transfer Bank
+ORD-00481,2026-02-09 13:44:00,CUST-0275,Standard Class,Completed,Transfer Bank
+ORD-00482,2025-02-25 20:15:00,CUST-0182,Standard Class,Completed,E-Wallet
+ORD-00483,2025-11-28 17:02:00,CUST-0289,Same Day,Completed,COD
+ORD-00484,2026-05-11 20:21:00,CUST-0221,Standard Class,Completed,Transfer Bank
+ORD-00485,2025-01-06 09:16:00,CUST-0114,Standard Class,Completed,E-Wallet
+ORD-00486,2025-08-17 13:25:00,CUST-0238,Standard Class,Completed,E-Wallet
+ORD-00487,2025-06-26 08:30:00,CUST-0054,Standard Class,Completed,Credit Card
+ORD-00488,2025-08-01 09:07:00,CUST-0073,Standard Class,Cancelled,Credit Card
+ORD-00489,2025-06-09 13:29:00,CUST-0106,Standard Class,Completed,COD
+ORD-00490,2025-06-28 15:06:00,CUST-0225,Standard Class,Completed,COD
+ORD-00491,2025-06-13 09:19:00,CUST-0023,Standard Class,Completed,Transfer Bank
+ORD-00492,2025-01-12 21:21:00,CUST-0056,First Class,Completed,E-Wallet
+ORD-00493,2026-04-22 19:15:00,CUST-0265,Second Class,Completed,E-Wallet
+ORD-00494,2025-10-10 10:21:00,CUST-0287,Standard Class,Completed,COD
+ORD-00495,2026-05-06 15:14:00,CUST-0208,First Class,Completed,E-Wallet
+ORD-00496,2025-04-06 18:42:00,CUST-0222,Standard Class,Completed,COD
+ORD-00497,2025-01-15 19:39:00,CUST-0102,Standard Class,Completed,COD
+ORD-00498,2025-10-31 14:24:00,CUST-0003,Standard Class,Returned,E-Wallet
+ORD-00499,2025-04-16 12:48:00,CUST-0033,Same Day,Returned,Transfer Bank
+ORD-00500,2026-02-14 21:34:00,CUST-0096,First Class,Completed,Credit Card
+ORD-00501,2025-06-16 11:29:00,CUST-0059,Standard Class,Completed,Credit Card
+ORD-00502,2025-12-10 21:31:00,CUST-0271,Second Class,Completed,Credit Card
+ORD-00503,2025-11-02 14:39:00,CUST-0201,Standard Class,Completed,Transfer Bank
+ORD-00504,2025-06-28 13:54:00,CUST-0235,First Class,Returned,E-Wallet
+ORD-00505,2026-02-21 18:45:00,CUST-0153,Standard Class,Completed,Transfer Bank
+ORD-00506,2025-12-11 10:20:00,CUST-0061,Standard Class,Completed,E-Wallet
+ORD-00507,2025-06-06 09:11:00,CUST-0192,Same Day,Completed,E-Wallet
+ORD-00508,2025-09-19 14:26:00,CUST-0071,Standard Class,Completed,COD
+ORD-00509,2025-08-05 10:31:00,CUST-0276,Second Class,Completed,E-Wallet
+ORD-00510,2025-10-12 10:31:00,CUST-0148,Standard Class,Completed,E-Wallet
+ORD-00511,2025-04-06 13:53:00,CUST-0231,Standard Class,Completed,Transfer Bank
+ORD-00512,2026-03-20 13:00:00,CUST-0249,Standard Class,Completed,E-Wallet
+ORD-00513,2025-04-10 21:24:00,CUST-0288,Same Day,Completed,COD
+ORD-00514,2025-07-29 18:31:00,CUST-0213,First Class,Completed,COD
+ORD-00515,2025-09-08 10:05:00,CUST-0290,Standard Class,Completed,Transfer Bank
+ORD-00516,2026-02-12 20:14:00,CUST-0150,First Class,Completed,Transfer Bank
+ORD-00517,2025-05-21 11:34:00,CUST-0148,Standard Class,Completed,E-Wallet
+ORD-00518,2026-02-04 15:36:00,CUST-0254,Standard Class,Completed,Transfer Bank
+ORD-00519,2025-10-21 09:17:00,CUST-0279,Standard Class,Cancelled,Credit Card
+ORD-00520,2025-10-05 21:48:00,CUST-0022,Second Class,Completed,COD
+ORD-00521,2025-10-07 11:27:00,CUST-0053,Second Class,Completed,E-Wallet
+ORD-00522,2025-06-02 21:02:00,CUST-0231,Second Class,Completed,Credit Card
+ORD-00523,2025-06-28 21:52:00,CUST-0045,Second Class,Completed,COD
+ORD-00524,2026-03-20 09:49:00,CUST-0122,Standard Class,Completed,E-Wallet
+ORD-00525,2026-02-20 19:37:00,CUST-0180,Second Class,Completed,COD
+ORD-00526,2025-03-26 17:08:00,CUST-0106,Standard Class,Returned,E-Wallet
+ORD-00527,2026-02-17 08:36:00,CUST-0180,Second Class,Completed,Credit Card
+ORD-00528,2025-11-02 16:10:00,CUST-0166,Standard Class,Completed,Credit Card
+ORD-00529,2025-05-29 17:17:00,CUST-0264,Standard Class,Completed,Transfer Bank
+ORD-00530,2025-03-11 20:50:00,CUST-0211,Standard Class,Completed,Transfer Bank
+ORD-00531,2025-05-22 21:41:00,CUST-0065,Same Day,Completed,E-Wallet
+ORD-00532,2025-05-08 10:45:00,CUST-0165,Second Class,Completed,E-Wallet
+ORD-00533,2026-01-25 21:43:00,CUST-0202,Standard Class,Completed,COD
+ORD-00534,2025-03-14 17:40:00,CUST-0138,Standard Class,Completed,COD
+ORD-00535,2025-07-12 15:04:00,CUST-0048,First Class,Completed,COD
+ORD-00536,2025-09-21 19:17:00,CUST-0189,Second Class,Completed,COD
+ORD-00537,2026-05-02 15:20:00,CUST-0298,Second Class,Completed,Transfer Bank
+ORD-00538,2026-03-21 20:54:00,CUST-0048,Standard Class,Completed,COD
+ORD-00539,2025-11-22 18:44:00,CUST-0184,Same Day,Completed,Transfer Bank
+ORD-00540,2026-02-12 16:25:00,CUST-0112,Standard Class,Completed,COD
+ORD-00541,2026-02-27 11:31:00,CUST-0138,Standard Class,Completed,Credit Card
+ORD-00542,2026-03-01 12:21:00,CUST-0281,Standard Class,Completed,E-Wallet
+ORD-00543,2025-10-17 21:31:00,CUST-0176,Standard Class,Completed,Transfer Bank
+ORD-00544,2025-01-24 09:40:00,CUST-0236,Second Class,Completed,Transfer Bank
+ORD-00545,2025-03-05 21:10:00,CUST-0226,Standard Class,Completed,COD
+ORD-00546,2025-01-01 14:12:00,CUST-0068,Standard Class,Completed,Credit Card
+ORD-00547,2025-03-23 21:59:00,CUST-0141,Standard Class,Completed,Transfer Bank
+ORD-00548,2025-12-02 13:16:00,CUST-0043,Second Class,Completed,Credit Card
+ORD-00549,2025-12-07 18:10:00,CUST-0027,First Class,Completed,COD
+ORD-00550,2025-11-17 12:46:00,CUST-0120,Second Class,Completed,COD
+ORD-00551,2025-12-02 09:45:00,CUST-0049,Second Class,Completed,Transfer Bank
+ORD-00552,2025-04-20 15:04:00,CUST-0068,First Class,Completed,E-Wallet
+ORD-00553,2025-09-23 18:28:00,CUST-0005,Second Class,Completed,Transfer Bank
+ORD-00554,2025-12-23 13:52:00,CUST-0062,Standard Class,Completed,COD
+ORD-00555,2025-12-22 10:30:00,CUST-0037,Standard Class,Completed,E-Wallet
+ORD-00556,2025-07-16 09:46:00,CUST-0053,Standard Class,Completed,Transfer Bank
+ORD-00557,2025-06-10 13:56:00,CUST-0154,Second Class,Completed,E-Wallet
+ORD-00558,2025-07-15 20:52:00,CUST-0069,First Class,Completed,E-Wallet
+ORD-00559,2025-02-05 16:36:00,CUST-0005,Second Class,Completed,E-Wallet
+ORD-00560,2025-08-14 13:46:00,CUST-0110,Second Class,Completed,E-Wallet
+ORD-00561,2026-04-16 14:39:00,CUST-0227,Second Class,Completed,E-Wallet
+ORD-00562,2025-02-14 09:08:00,CUST-0064,Second Class,Completed,COD
+ORD-00563,2025-06-29 14:20:00,CUST-0072,Standard Class,Completed,E-Wallet
+ORD-00564,2025-05-22 18:05:00,CUST-0128,Standard Class,Completed,Credit Card
+ORD-00565,2026-02-03 19:01:00,CUST-0155,Standard Class,Cancelled,E-Wallet
+ORD-00566,2025-09-23 17:32:00,CUST-0097,Second Class,Completed,COD
+ORD-00567,2025-06-01 18:03:00,CUST-0123,Standard Class,Completed,COD
+ORD-00568,2025-07-17 09:15:00,CUST-0256,Standard Class,Completed,Transfer Bank
+ORD-00569,2025-09-28 08:23:00,CUST-0163,Second Class,Completed,E-Wallet
+ORD-00570,2025-07-18 21:53:00,CUST-0292,Standard Class,Completed,COD
+ORD-00571,2025-07-07 16:43:00,CUST-0089,Second Class,Completed,COD
+ORD-00572,2026-05-04 20:04:00,CUST-0009,First Class,Completed,Transfer Bank
+ORD-00573,2025-01-08 12:13:00,CUST-0021,Second Class,Completed,Transfer Bank
+ORD-00574,2026-05-01 20:25:00,CUST-0260,Standard Class,Completed,Credit Card
+ORD-00575,2025-11-18 19:32:00,CUST-0213,Second Class,Completed,COD
+ORD-00576,2025-12-26 14:05:00,CUST-0275,Standard Class,Completed,E-Wallet
+ORD-00577,2025-05-23 09:19:00,CUST-0041,First Class,Completed,E-Wallet
+ORD-00578,2026-05-14 20:09:00,CUST-0275,Second Class,Completed,Credit Card
+ORD-00579,2025-07-20 17:40:00,CUST-0034,Second Class,Completed,Credit Card
+ORD-00580,2025-12-24 14:46:00,CUST-0123,Standard Class,Completed,Transfer Bank
+ORD-00581,2025-05-06 09:59:00,CUST-0223,Standard Class,Completed,Transfer Bank
+ORD-00582,2025-08-21 17:38:00,CUST-0029,Standard Class,Completed,Credit Card
+ORD-00583,2025-12-08 19:42:00,CUST-0090,Second Class,Completed,Transfer Bank
+ORD-00584,2025-01-07 19:08:00,CUST-0006,Standard Class,Completed,E-Wallet
+ORD-00585,2025-09-12 13:33:00,CUST-0265,Standard Class,Completed,Credit Card
+ORD-00586,2025-03-27 13:08:00,CUST-0138,Standard Class,Completed,Transfer Bank
+ORD-00587,2026-01-30 08:21:00,CUST-0220,Standard Class,Completed,Credit Card
+ORD-00588,2025-09-26 09:16:00,CUST-0296,Second Class,Completed,Transfer Bank
+ORD-00589,2025-09-12 15:32:00,CUST-0185,Standard Class,Completed,Transfer Bank
+ORD-00590,2025-09-13 21:36:00,CUST-0086,Standard Class,Completed,Credit Card
+ORD-00591,2025-03-22 12:49:00,CUST-0053,Standard Class,Completed,Transfer Bank
+ORD-00592,2025-04-27 19:32:00,CUST-0002,Standard Class,Completed,Transfer Bank
+ORD-00593,2026-03-16 21:00:00,CUST-0126,Second Class,Completed,Transfer Bank
+ORD-00594,2025-08-30 13:24:00,CUST-0077,Second Class,Completed,E-Wallet
+ORD-00595,2026-04-22 21:02:00,CUST-0284,Second Class,Completed,COD
+ORD-00596,2025-04-25 13:15:00,CUST-0214,Standard Class,Completed,Credit Card
+ORD-00597,2025-05-19 21:04:00,CUST-0293,Standard Class,Completed,Credit Card
+ORD-00598,2025-03-03 16:43:00,CUST-0027,Standard Class,Completed,E-Wallet
+ORD-00599,2025-04-25 20:33:00,CUST-0024,Standard Class,Completed,COD
+ORD-00600,2025-02-05 15:55:00,CUST-0145,First Class,Completed,Credit Card
+ORD-00601,2025-06-17 09:35:00,CUST-0234,Standard Class,Completed,Transfer Bank
+ORD-00602,2025-07-08 11:18:00,CUST-0289,Standard Class,Completed,Credit Card
+ORD-00603,2026-01-14 17:15:00,CUST-0238,Standard Class,Completed,Credit Card
+ORD-00604,2025-10-30 15:49:00,CUST-0101,Standard Class,Completed,E-Wallet
+ORD-00605,2025-03-19 08:59:00,CUST-0210,Second Class,Completed,Transfer Bank
+ORD-00606,2025-04-30 16:22:00,CUST-0005,Standard Class,Completed,Credit Card
+ORD-00607,2025-01-01 20:42:00,CUST-0193,Standard Class,Completed,Credit Card
+ORD-00608,2025-02-23 11:33:00,CUST-0122,Standard Class,Completed,COD
+ORD-00609,2025-09-09 08:09:00,CUST-0144,Standard Class,Completed,Transfer Bank
+ORD-00610,2025-01-23 11:57:00,CUST-0267,Second Class,Completed,COD
+ORD-00611,2025-12-25 13:29:00,CUST-0044,Same Day,Completed,Transfer Bank
+ORD-00612,2025-09-16 10:40:00,CUST-0202,Standard Class,Completed,Transfer Bank
+ORD-00613,2025-10-31 17:03:00,CUST-0223,Standard Class,Completed,E-Wallet
+ORD-00614,2025-05-02 12:16:00,CUST-0162,Second Class,Completed,COD
+ORD-00615,2025-12-25 21:47:00,CUST-0168,Standard Class,Completed,Credit Card
+ORD-00616,2025-08-20 12:14:00,CUST-0039,Second Class,Completed,E-Wallet
+ORD-00617,2025-03-11 20:49:00,CUST-0300,Second Class,Returned,Transfer Bank
+ORD-00618,2025-03-21 09:10:00,CUST-0231,Standard Class,Completed,COD
+ORD-00619,2025-06-10 14:07:00,CUST-0275,Second Class,Completed,Credit Card
+ORD-00620,2026-05-09 20:13:00,CUST-0232,Second Class,Returned,Credit Card
+ORD-00621,2025-08-26 12:54:00,CUST-0062,Standard Class,Completed,Transfer Bank
+ORD-00622,2025-03-22 20:43:00,CUST-0156,Standard Class,Completed,Transfer Bank
+ORD-00623,2025-04-21 21:54:00,CUST-0168,Second Class,Completed,E-Wallet
+ORD-00624,2025-02-16 19:15:00,CUST-0183,Standard Class,Cancelled,COD
+ORD-00625,2025-09-20 08:43:00,CUST-0154,Standard Class,Completed,Credit Card
+ORD-00626,2026-02-24 10:01:00,CUST-0208,Standard Class,Completed,COD
+ORD-00627,2025-10-12 19:35:00,CUST-0128,Standard Class,Cancelled,Transfer Bank
+ORD-00628,2025-08-25 09:51:00,CUST-0072,Standard Class,Completed,Transfer Bank
+ORD-00629,2025-01-07 08:53:00,CUST-0114,Second Class,Completed,E-Wallet
+ORD-00630,2025-04-12 21:25:00,CUST-0191,Second Class,Completed,Transfer Bank
+ORD-00631,2025-10-26 17:16:00,CUST-0039,First Class,Cancelled,Transfer Bank
+ORD-00632,2025-02-03 11:57:00,CUST-0228,First Class,Completed,E-Wallet
+ORD-00633,2025-02-17 21:53:00,CUST-0170,Standard Class,Completed,Transfer Bank
+ORD-00634,2025-01-22 15:03:00,CUST-0087,Standard Class,Completed,COD
+ORD-00635,2026-02-25 19:25:00,CUST-0255,Standard Class,Completed,Transfer Bank
+ORD-00636,2025-07-15 18:27:00,CUST-0089,Standard Class,Cancelled,Credit Card
+ORD-00637,2025-04-20 10:17:00,CUST-0144,Second Class,Completed,COD
+ORD-00638,2026-03-29 10:02:00,CUST-0126,Standard Class,Completed,Credit Card
+ORD-00639,2025-09-13 14:56:00,CUST-0282,First Class,Completed,COD
+ORD-00640,2025-02-01 09:17:00,CUST-0197,Standard Class,Completed,E-Wallet
+ORD-00641,2025-08-03 11:41:00,CUST-0270,Second Class,Completed,E-Wallet
+ORD-00642,2025-11-19 20:34:00,CUST-0010,First Class,Returned,COD
+ORD-00643,2026-02-05 19:22:00,CUST-0246,Standard Class,Completed,COD
+ORD-00644,2025-06-26 17:32:00,CUST-0165,Second Class,Completed,COD
+ORD-00645,2025-05-19 10:01:00,CUST-0164,Same Day,Completed,E-Wallet
+ORD-00646,2025-01-16 20:49:00,CUST-0144,Standard Class,Completed,Transfer Bank
+ORD-00647,2026-02-19 15:33:00,CUST-0184,Standard Class,Completed,E-Wallet
+ORD-00648,2026-05-14 10:06:00,CUST-0127,Standard Class,Completed,E-Wallet
+ORD-00649,2025-05-17 16:52:00,CUST-0029,Standard Class,Completed,E-Wallet
+ORD-00650,2025-10-22 21:51:00,CUST-0199,Standard Class,Completed,Credit Card
+ORD-00651,2026-04-24 21:54:00,CUST-0089,Standard Class,Completed,E-Wallet
+ORD-00652,2025-05-02 17:20:00,CUST-0184,Second Class,Completed,Transfer Bank
+ORD-00653,2025-12-27 19:22:00,CUST-0291,Second Class,Completed,E-Wallet
+ORD-00654,2025-10-16 11:53:00,CUST-0253,First Class,Completed,Credit Card
+ORD-00655,2025-03-31 15:02:00,CUST-0047,First Class,Completed,Transfer Bank
+ORD-00656,2025-04-30 17:14:00,CUST-0011,First Class,Completed,COD
+ORD-00657,2025-01-01 13:58:00,CUST-0104,First Class,Completed,E-Wallet
+ORD-00658,2025-06-24 19:11:00,CUST-0166,Standard Class,Completed,Transfer Bank
+ORD-00659,2025-01-12 10:37:00,CUST-0073,First Class,Completed,Transfer Bank
+ORD-00660,2026-03-10 16:55:00,CUST-0187,Standard Class,Completed,Transfer Bank
+ORD-00661,2025-07-11 19:42:00,CUST-0203,Standard Class,Completed,Transfer Bank
+ORD-00662,2025-06-22 12:20:00,CUST-0070,Standard Class,Completed,E-Wallet
+ORD-00663,2026-01-10 14:50:00,CUST-0250,Second Class,Completed,Credit Card
+ORD-00664,2025-03-31 19:35:00,CUST-0183,Standard Class,Completed,E-Wallet
+ORD-00665,2025-12-07 17:52:00,CUST-0090,Standard Class,Completed,COD
+ORD-00666,2025-06-07 19:44:00,CUST-0151,Second Class,Completed,E-Wallet
+ORD-00667,2025-04-01 19:00:00,CUST-0294,Same Day,Completed,COD
+ORD-00668,2026-03-12 20:36:00,CUST-0017,First Class,Completed,E-Wallet
+ORD-00669,2025-11-05 13:58:00,CUST-0114,First Class,Completed,Transfer Bank
+ORD-00670,2026-04-25 15:09:00,CUST-0170,First Class,Completed,Transfer Bank
+ORD-00671,2025-05-02 13:20:00,CUST-0086,Standard Class,Completed,Transfer Bank
+ORD-00672,2026-02-25 19:42:00,CUST-0172,Standard Class,Completed,COD
+ORD-00673,2025-01-06 12:13:00,CUST-0128,Second Class,Completed,Transfer Bank
+ORD-00674,2025-06-29 12:50:00,CUST-0056,Second Class,Completed,Transfer Bank
+ORD-00675,2025-01-25 14:28:00,CUST-0215,First Class,Completed,E-Wallet
+ORD-00676,2026-03-29 14:31:00,CUST-0194,Second Class,Completed,Credit Card
+ORD-00677,2025-10-07 14:06:00,CUST-0246,Standard Class,Completed,E-Wallet
+ORD-00678,2025-03-25 15:04:00,CUST-0018,Second Class,Completed,Credit Card
+ORD-00679,2025-01-11 13:16:00,CUST-0054,Standard Class,Completed,Transfer Bank
+ORD-00680,2025-06-25 10:56:00,CUST-0193,Standard Class,Completed,E-Wallet
+ORD-00681,2026-01-10 09:35:00,CUST-0048,Standard Class,Completed,Credit Card
+ORD-00682,2025-11-01 17:57:00,CUST-0248,Second Class,Completed,Transfer Bank
+ORD-00683,2025-08-09 18:10:00,CUST-0223,Standard Class,Completed,E-Wallet
+ORD-00684,2025-01-28 09:21:00,CUST-0106,Standard Class,Completed,E-Wallet
+ORD-00685,2025-07-29 19:35:00,CUST-0277,Same Day,Completed,Credit Card
+ORD-00686,2025-12-05 12:19:00,CUST-0122,Second Class,Completed,Transfer Bank
+ORD-00687,2025-01-26 14:36:00,CUST-0282,Standard Class,Completed,COD
+ORD-00688,2025-03-20 08:23:00,CUST-0002,Second Class,Completed,COD
+ORD-00689,2025-02-14 12:52:00,CUST-0246,First Class,Completed,E-Wallet
+ORD-00690,2025-02-19 08:13:00,CUST-0088,Standard Class,Completed,Credit Card
+ORD-00691,2026-05-16 09:30:00,CUST-0060,First Class,Cancelled,Credit Card
+ORD-00692,2026-02-06 14:30:00,CUST-0251,Second Class,Completed,Credit Card
+ORD-00693,2025-02-16 18:34:00,CUST-0199,Standard Class,Completed,E-Wallet
+ORD-00694,2025-07-09 14:23:00,CUST-0096,Standard Class,Completed,COD
+ORD-00695,2025-01-23 12:28:00,CUST-0239,Same Day,Completed,Credit Card
+ORD-00696,2025-04-26 21:17:00,CUST-0289,Standard Class,Completed,Transfer Bank
+ORD-00697,2025-03-19 20:44:00,CUST-0050,Second Class,Completed,Transfer Bank
+ORD-00698,2025-12-09 13:51:00,CUST-0278,Second Class,Completed,COD
+ORD-00699,2026-05-13 20:37:00,CUST-0117,Standard Class,Completed,Transfer Bank
+ORD-00700,2026-03-07 14:52:00,CUST-0268,Standard Class,Completed,COD
+ORD-00701,2026-05-10 16:43:00,CUST-0244,Standard Class,Completed,E-Wallet
+ORD-00702,2025-09-01 12:05:00,CUST-0203,Standard Class,Completed,Transfer Bank
+ORD-00703,2025-09-15 17:57:00,CUST-0265,First Class,Completed,E-Wallet
+ORD-00704,2025-03-03 20:28:00,CUST-0089,Standard Class,Completed,E-Wallet
+ORD-00705,2026-05-13 11:51:00,CUST-0099,Standard Class,Completed,E-Wallet
+ORD-00706,2025-01-22 14:05:00,CUST-0223,Standard Class,Completed,E-Wallet
+ORD-00707,2026-02-26 18:09:00,CUST-0133,Standard Class,Completed,Credit Card
+ORD-00708,2026-04-12 19:58:00,CUST-0035,Second Class,Cancelled,Transfer Bank
+ORD-00709,2025-07-18 16:25:00,CUST-0283,Standard Class,Completed,Credit Card
+ORD-00710,2026-03-15 12:33:00,CUST-0235,Second Class,Completed,Transfer Bank
+ORD-00711,2026-02-07 19:39:00,CUST-0268,Standard Class,Completed,COD
+ORD-00712,2025-02-27 14:09:00,CUST-0076,Standard Class,Completed,Transfer Bank
+ORD-00713,2026-04-19 09:36:00,CUST-0052,Standard Class,Completed,Credit Card
+ORD-00714,2026-03-21 16:56:00,CUST-0177,Second Class,Completed,COD
+ORD-00715,2025-05-16 14:41:00,CUST-0249,Second Class,Completed,COD
+ORD-00716,2025-01-20 10:17:00,CUST-0207,First Class,Completed,E-Wallet
+ORD-00717,2025-11-13 17:43:00,CUST-0206,Second Class,Completed,Transfer Bank
+ORD-00718,2025-07-22 13:44:00,CUST-0122,Second Class,Completed,Transfer Bank
+ORD-00719,2026-01-17 15:58:00,CUST-0138,Second Class,Completed,Credit Card
+ORD-00720,2025-01-11 13:52:00,CUST-0156,Standard Class,Completed,Credit Card
+ORD-00721,2025-05-24 21:31:00,CUST-0051,Standard Class,Completed,E-Wallet
+ORD-00722,2025-03-10 12:47:00,CUST-0227,Standard Class,Completed,Credit Card
+ORD-00723,2025-05-18 19:26:00,CUST-0046,Standard Class,Completed,E-Wallet
+ORD-00724,2025-08-15 11:58:00,CUST-0209,Standard Class,Completed,COD
+ORD-00725,2026-01-24 16:55:00,CUST-0192,Second Class,Completed,Transfer Bank
+ORD-00726,2025-09-21 20:10:00,CUST-0034,Standard Class,Completed,Credit Card
+ORD-00727,2025-12-30 16:25:00,CUST-0070,Second Class,Completed,Transfer Bank
+ORD-00728,2025-03-30 11:56:00,CUST-0103,Standard Class,Completed,Transfer Bank
+ORD-00729,2025-05-08 08:29:00,CUST-0026,Second Class,Completed,Credit Card
+ORD-00730,2025-12-27 11:17:00,CUST-0189,Standard Class,Completed,COD
+ORD-00731,2025-09-16 14:40:00,CUST-0064,Standard Class,Completed,Transfer Bank
+ORD-00732,2025-05-04 13:31:00,CUST-0229,First Class,Completed,E-Wallet
+ORD-00733,2026-05-07 21:30:00,CUST-0283,Standard Class,Completed,Credit Card
+ORD-00734,2025-06-26 10:53:00,CUST-0133,Second Class,Completed,Transfer Bank
+ORD-00735,2025-05-26 08:24:00,CUST-0026,Standard Class,Completed,E-Wallet
+ORD-00736,2026-03-14 17:49:00,CUST-0110,Standard Class,Completed,E-Wallet
+ORD-00737,2025-11-28 11:43:00,CUST-0106,Standard Class,Completed,Credit Card
+ORD-00738,2025-11-30 14:32:00,CUST-0011,Standard Class,Completed,Transfer Bank
+ORD-00739,2025-08-31 10:41:00,CUST-0089,Second Class,Completed,Transfer Bank
+ORD-00740,2025-04-25 12:38:00,CUST-0157,Standard Class,Completed,Credit Card
+ORD-00741,2025-08-05 14:54:00,CUST-0179,Standard Class,Completed,COD
+ORD-00742,2025-05-10 11:29:00,CUST-0155,First Class,Completed,COD
+ORD-00743,2025-10-27 09:00:00,CUST-0262,Standard Class,Completed,Credit Card
+ORD-00744,2025-10-15 18:38:00,CUST-0145,Standard Class,Returned,Credit Card
+ORD-00745,2025-12-17 09:30:00,CUST-0033,Same Day,Completed,Credit Card
+ORD-00746,2025-05-22 18:20:00,CUST-0142,Standard Class,Completed,Credit Card
+ORD-00747,2025-12-02 19:57:00,CUST-0153,Standard Class,Completed,E-Wallet
+ORD-00748,2025-03-18 16:48:00,CUST-0124,First Class,Completed,Transfer Bank
+ORD-00749,2026-02-17 21:51:00,CUST-0207,Second Class,Completed,Credit Card
+ORD-00750,2025-12-15 10:46:00,CUST-0014,Standard Class,Completed,COD
+ORD-00751,2025-06-01 12:58:00,CUST-0215,Second Class,Completed,COD
+ORD-00752,2025-07-18 19:02:00,CUST-0299,Standard Class,Cancelled,E-Wallet
+ORD-00753,2025-06-25 19:45:00,CUST-0114,Standard Class,Completed,COD
+ORD-00754,2026-04-10 18:22:00,CUST-0260,Second Class,Completed,Credit Card
+ORD-00755,2026-03-09 10:53:00,CUST-0286,Standard Class,Completed,E-Wallet
+ORD-00756,2025-05-31 09:30:00,CUST-0066,Standard Class,Completed,Credit Card
+ORD-00757,2026-01-07 20:35:00,CUST-0094,First Class,Completed,Credit Card
+ORD-00758,2025-12-02 09:14:00,CUST-0182,Standard Class,Completed,E-Wallet
+ORD-00759,2026-01-17 21:19:00,CUST-0216,Standard Class,Completed,Credit Card
+ORD-00760,2025-07-10 12:37:00,CUST-0151,Standard Class,Returned,COD
+ORD-00761,2026-03-12 09:30:00,CUST-0028,Standard Class,Completed,Transfer Bank
+ORD-00762,2025-08-30 11:32:00,CUST-0062,Standard Class,Completed,COD
+ORD-00763,2025-09-29 12:26:00,CUST-0028,Same Day,Completed,E-Wallet
+ORD-00764,2025-03-12 11:21:00,CUST-0210,Standard Class,Completed,COD
+ORD-00765,2025-03-15 13:55:00,CUST-0093,Second Class,Completed,Transfer Bank
+ORD-00766,2025-09-07 13:40:00,CUST-0091,Standard Class,Completed,Credit Card
+ORD-00767,2025-11-21 08:00:00,CUST-0232,Standard Class,Completed,Credit Card
+ORD-00768,2025-04-18 20:49:00,CUST-0087,Second Class,Completed,E-Wallet
+ORD-00769,2025-09-08 20:48:00,CUST-0046,Second Class,Completed,E-Wallet
+ORD-00770,2025-11-11 14:40:00,CUST-0220,Standard Class,Completed,COD
+ORD-00771,2025-08-08 15:24:00,CUST-0003,Same Day,Completed,Transfer Bank
+ORD-00772,2025-10-01 11:46:00,CUST-0192,Standard Class,Cancelled,Transfer Bank
+ORD-00773,2026-04-02 13:48:00,CUST-0272,First Class,Completed,E-Wallet
+ORD-00774,2025-01-10 18:00:00,CUST-0128,Standard Class,Completed,E-Wallet
+ORD-00775,2025-12-22 13:19:00,CUST-0067,Second Class,Completed,Transfer Bank
+ORD-00776,2025-07-16 16:37:00,CUST-0157,Standard Class,Completed,E-Wallet
+ORD-00777,2025-02-03 21:02:00,CUST-0153,Standard Class,Completed,Credit Card
+ORD-00778,2025-08-22 19:33:00,CUST-0269,Standard Class,Completed,Credit Card
+ORD-00779,2025-08-11 18:08:00,CUST-0176,Second Class,Completed,COD
+ORD-00780,2025-07-03 20:12:00,CUST-0085,Standard Class,Completed,COD
+ORD-00781,2025-01-10 11:14:00,CUST-0068,Standard Class,Completed,E-Wallet
+ORD-00782,2026-01-11 08:37:00,CUST-0259,First Class,Completed,E-Wallet
+ORD-00783,2025-03-05 13:45:00,CUST-0020,Standard Class,Completed,COD
+ORD-00784,2026-03-25 18:16:00,CUST-0274,First Class,Completed,Transfer Bank
+ORD-00785,2025-11-01 08:42:00,CUST-0056,Second Class,Cancelled,Transfer Bank
+ORD-00786,2025-01-25 19:07:00,CUST-0214,Standard Class,Completed,COD
+ORD-00787,2025-07-14 09:35:00,CUST-0130,Standard Class,Completed,COD
+ORD-00788,2025-12-26 10:13:00,CUST-0005,Standard Class,Completed,Credit Card
+ORD-00789,2025-08-04 18:06:00,CUST-0267,Standard Class,Completed,Credit Card
+ORD-00790,2025-11-15 17:44:00,CUST-0071,First Class,Cancelled,COD
+ORD-00791,2026-03-02 09:32:00,CUST-0061,First Class,Completed,Credit Card
+ORD-00792,2025-02-28 20:06:00,CUST-0255,Standard Class,Completed,E-Wallet
+ORD-00793,2025-11-08 11:49:00,CUST-0135,First Class,Completed,E-Wallet
+ORD-00794,2025-07-03 19:26:00,CUST-0152,Standard Class,Completed,E-Wallet
+ORD-00795,2025-01-21 16:31:00,CUST-0107,Standard Class,Completed,COD
+ORD-00796,2025-06-19 11:00:00,CUST-0007,Standard Class,Completed,Transfer Bank
+ORD-00797,2026-04-10 09:53:00,CUST-0294,Standard Class,Completed,COD
+ORD-00798,2025-03-18 09:49:00,CUST-0262,Standard Class,Completed,Transfer Bank
+ORD-00799,2026-01-06 19:06:00,CUST-0132,Standard Class,Completed,E-Wallet
+ORD-00800,2025-08-22 12:16:00,CUST-0238,Standard Class,Completed,Transfer Bank
+ORD-00801,2025-02-21 21:11:00,CUST-0021,Second Class,Completed,Credit Card
+ORD-00802,2025-07-04 20:43:00,CUST-0161,Standard Class,Completed,COD
+ORD-00803,2026-01-14 09:06:00,CUST-0024,First Class,Completed,Transfer Bank
+ORD-00804,2026-03-13 10:42:00,CUST-0088,First Class,Completed,Credit Card
+ORD-00805,2025-07-03 15:39:00,CUST-0138,Standard Class,Completed,Transfer Bank
+ORD-00806,2025-07-10 21:21:00,CUST-0094,Standard Class,Completed,Transfer Bank
+ORD-00807,2025-07-25 14:29:00,CUST-0140,Standard Class,Completed,COD
+ORD-00808,2025-12-20 21:30:00,CUST-0216,Second Class,Completed,E-Wallet
+ORD-00809,2025-02-27 10:44:00,CUST-0031,Standard Class,Completed,E-Wallet
+ORD-00810,2025-02-23 14:58:00,CUST-0248,Second Class,Completed,COD
+ORD-00811,2025-04-03 17:24:00,CUST-0184,Second Class,Completed,Transfer Bank
+ORD-00812,2026-03-18 18:56:00,CUST-0067,Same Day,Completed,COD
+ORD-00813,2026-04-17 15:07:00,CUST-0211,Standard Class,Completed,COD
+ORD-00814,2025-01-24 09:16:00,CUST-0161,First Class,Completed,Transfer Bank
+ORD-00815,2025-12-27 21:43:00,CUST-0269,Second Class,Completed,E-Wallet
+ORD-00816,2026-05-16 18:55:00,CUST-0174,Standard Class,Completed,Transfer Bank
+ORD-00817,2025-08-10 18:46:00,CUST-0128,Standard Class,Completed,COD
+ORD-00818,2025-06-27 18:43:00,CUST-0198,Standard Class,Completed,E-Wallet
+ORD-00819,2026-03-06 21:35:00,CUST-0028,Standard Class,Completed,Transfer Bank
+ORD-00820,2025-11-26 10:32:00,CUST-0241,First Class,Completed,COD
+ORD-00821,2026-03-22 10:04:00,CUST-0252,Standard Class,Completed,Credit Card
+ORD-00822,2025-05-04 13:17:00,CUST-0026,Standard Class,Completed,E-Wallet
+ORD-00823,2025-10-09 18:24:00,CUST-0207,Second Class,Completed,E-Wallet
+ORD-00824,2025-02-10 15:28:00,CUST-0294,Standard Class,Completed,COD
+ORD-00825,2025-02-15 21:31:00,CUST-0229,Standard Class,Completed,Credit Card
+ORD-00826,2025-03-02 15:47:00,CUST-0010,Standard Class,Completed,Transfer Bank
+ORD-00827,2025-07-26 14:02:00,CUST-0286,First Class,Completed,Transfer Bank
+ORD-00828,2026-02-27 09:50:00,CUST-0156,Same Day,Completed,E-Wallet
+ORD-00829,2025-12-02 18:29:00,CUST-0175,Standard Class,Completed,Credit Card
+ORD-00830,2026-02-27 08:52:00,CUST-0115,Standard Class,Completed,COD
+ORD-00831,2025-06-19 16:49:00,CUST-0243,Standard Class,Completed,Credit Card
+ORD-00832,2026-01-02 15:07:00,CUST-0050,Standard Class,Completed,E-Wallet
+ORD-00833,2025-01-02 13:22:00,CUST-0150,Standard Class,Completed,Credit Card
+ORD-00834,2025-12-26 09:02:00,CUST-0085,Standard Class,Completed,COD
+ORD-00835,2025-03-13 21:45:00,CUST-0210,Second Class,Cancelled,Transfer Bank
+ORD-00836,2025-05-11 17:12:00,CUST-0097,Second Class,Completed,Transfer Bank
+ORD-00837,2026-04-22 21:25:00,CUST-0111,Standard Class,Completed,COD
+ORD-00838,2026-02-27 20:12:00,CUST-0174,First Class,Completed,Transfer Bank
+ORD-00839,2026-01-23 14:02:00,CUST-0064,Standard Class,Completed,COD
+ORD-00840,2025-08-23 18:37:00,CUST-0259,Standard Class,Completed,E-Wallet
+ORD-00841,2026-05-09 15:00:00,CUST-0272,Standard Class,Completed,Transfer Bank
+ORD-00842,2025-10-11 14:53:00,CUST-0300,Standard Class,Completed,COD
+ORD-00843,2026-04-19 16:49:00,CUST-0091,Standard Class,Completed,E-Wallet
+ORD-00844,2026-01-10 21:08:00,CUST-0054,First Class,Completed,COD
+ORD-00845,2025-12-03 17:38:00,CUST-0165,Standard Class,Completed,COD
+ORD-00846,2025-08-03 17:58:00,CUST-0128,Second Class,Completed,Credit Card
+ORD-00847,2025-07-23 13:18:00,CUST-0232,Standard Class,Completed,E-Wallet
+ORD-00848,2025-03-12 14:38:00,CUST-0263,Second Class,Completed,Credit Card
+ORD-00849,2026-03-08 19:35:00,CUST-0161,Second Class,Completed,E-Wallet
+ORD-00850,2025-04-13 11:39:00,CUST-0149,Second Class,Completed,Credit Card
+ORD-00851,2026-04-17 18:08:00,CUST-0092,Standard Class,Cancelled,Credit Card
+ORD-00852,2025-12-30 09:48:00,CUST-0181,Second Class,Completed,COD
+ORD-00853,2025-10-26 17:42:00,CUST-0214,Standard Class,Completed,Credit Card
+ORD-00854,2026-03-26 21:27:00,CUST-0007,Standard Class,Completed,Transfer Bank
+ORD-00855,2025-01-13 14:09:00,CUST-0028,Second Class,Completed,Transfer Bank
+ORD-00856,2025-04-13 12:48:00,CUST-0083,Same Day,Completed,Credit Card
+ORD-00857,2025-12-16 12:09:00,CUST-0032,Second Class,Completed,Credit Card
+ORD-00858,2025-04-15 20:34:00,CUST-0017,Second Class,Completed,Credit Card
+ORD-00859,2026-02-21 15:06:00,CUST-0288,Standard Class,Completed,E-Wallet
+ORD-00860,2026-01-16 18:35:00,CUST-0200,Second Class,Completed,E-Wallet
+ORD-00861,2025-09-19 20:50:00,CUST-0148,Second Class,Completed,Transfer Bank
+ORD-00862,2026-04-20 14:24:00,CUST-0214,Standard Class,Completed,Credit Card
+ORD-00863,2026-05-10 16:03:00,CUST-0007,Second Class,Completed,Credit Card
+ORD-00864,2025-04-14 17:55:00,CUST-0227,Standard Class,Completed,E-Wallet
+ORD-00865,2026-04-12 18:45:00,CUST-0189,Standard Class,Completed,E-Wallet
+ORD-00866,2026-02-02 19:12:00,CUST-0151,Standard Class,Completed,COD
+ORD-00867,2025-04-01 18:04:00,CUST-0096,Standard Class,Completed,E-Wallet
+ORD-00868,2026-01-12 16:07:00,CUST-0194,Standard Class,Completed,Transfer Bank
+ORD-00869,2025-08-08 12:35:00,CUST-0136,First Class,Completed,E-Wallet
+ORD-00870,2025-03-24 17:54:00,CUST-0131,Standard Class,Completed,Transfer Bank
+ORD-00871,2025-06-19 15:45:00,CUST-0080,Standard Class,Completed,Transfer Bank
+ORD-00872,2025-03-20 13:38:00,CUST-0027,Standard Class,Completed,Credit Card
+ORD-00873,2025-09-09 20:36:00,CUST-0282,Second Class,Completed,Credit Card
+ORD-00874,2025-02-07 20:45:00,CUST-0163,Second Class,Completed,E-Wallet
+ORD-00875,2026-05-05 10:33:00,CUST-0035,First Class,Completed,E-Wallet
+ORD-00876,2025-08-01 16:34:00,CUST-0207,Standard Class,Completed,Transfer Bank
+ORD-00877,2025-06-28 11:56:00,CUST-0110,Standard Class,Completed,Credit Card
+ORD-00878,2025-06-19 13:18:00,CUST-0112,Standard Class,Completed,COD
+ORD-00879,2025-10-15 21:48:00,CUST-0005,Standard Class,Completed,Transfer Bank
+ORD-00880,2025-12-09 13:28:00,CUST-0124,Same Day,Completed,E-Wallet
+ORD-00881,2026-05-06 08:43:00,CUST-0165,First Class,Completed,COD
+ORD-00882,2026-04-14 20:07:00,CUST-0198,First Class,Completed,Credit Card
+ORD-00883,2025-10-04 19:18:00,CUST-0013,Second Class,Completed,Credit Card
+ORD-00884,2025-09-21 20:32:00,CUST-0229,Standard Class,Completed,COD
+ORD-00885,2025-01-23 12:57:00,CUST-0099,First Class,Completed,Credit Card
+ORD-00886,2025-09-21 09:06:00,CUST-0086,Standard Class,Completed,Transfer Bank
+ORD-00887,2025-11-17 09:13:00,CUST-0110,Standard Class,Completed,COD
+ORD-00888,2026-03-04 09:13:00,CUST-0276,Standard Class,Completed,COD
+ORD-00889,2025-11-28 21:04:00,CUST-0079,Second Class,Returned,Transfer Bank
+ORD-00890,2025-08-24 19:21:00,CUST-0020,Standard Class,Completed,Transfer Bank
+ORD-00891,2025-02-07 08:11:00,CUST-0129,Standard Class,Completed,Transfer Bank
+ORD-00892,2025-10-22 21:14:00,CUST-0133,Standard Class,Completed,COD
+ORD-00893,2025-07-18 15:40:00,CUST-0208,Second Class,Completed,COD
+ORD-00894,2025-06-11 08:24:00,CUST-0061,Second Class,Completed,Transfer Bank
+ORD-00895,2025-11-25 19:39:00,CUST-0033,Second Class,Completed,Transfer Bank
+ORD-00896,2025-12-25 21:04:00,CUST-0184,Standard Class,Completed,Transfer Bank
+ORD-00897,2025-05-29 20:43:00,CUST-0155,Standard Class,Completed,Transfer Bank
+ORD-00898,2025-05-25 20:59:00,CUST-0225,Standard Class,Completed,COD
+ORD-00899,2025-07-22 21:42:00,CUST-0016,Standard Class,Completed,COD
+ORD-00900,2025-03-22 16:14:00,CUST-0070,Standard Class,Completed,COD
+ORD-00901,2026-02-12 20:54:00,CUST-0280,First Class,Completed,Credit Card
+ORD-00902,2026-05-07 18:09:00,CUST-0153,Second Class,Completed,Credit Card
+ORD-00903,2026-05-06 08:35:00,CUST-0285,Standard Class,Cancelled,E-Wallet
+ORD-00904,2025-03-05 08:00:00,CUST-0294,Second Class,Completed,COD
+ORD-00905,2025-10-03 16:05:00,CUST-0157,Standard Class,Completed,E-Wallet
+ORD-00906,2026-01-19 19:57:00,CUST-0177,Standard Class,Completed,E-Wallet
+ORD-00907,2025-07-31 18:54:00,CUST-0263,Standard Class,Completed,E-Wallet
+ORD-00908,2025-03-24 10:14:00,CUST-0130,Standard Class,Completed,E-Wallet
+ORD-00909,2025-02-28 10:42:00,CUST-0291,Standard Class,Completed,Transfer Bank
+ORD-00910,2026-03-12 20:59:00,CUST-0282,Standard Class,Completed,COD
+ORD-00911,2025-11-27 16:04:00,CUST-0149,First Class,Completed,Transfer Bank
+ORD-00912,2025-05-09 09:12:00,CUST-0298,Second Class,Completed,COD
+ORD-00913,2026-05-03 13:22:00,CUST-0066,Standard Class,Completed,E-Wallet
+ORD-00914,2025-02-21 12:39:00,CUST-0036,Standard Class,Completed,E-Wallet
+ORD-00915,2025-06-12 15:28:00,CUST-0169,Standard Class,Completed,Credit Card
+ORD-00916,2025-12-22 17:09:00,CUST-0290,Second Class,Cancelled,Credit Card
+ORD-00917,2026-02-18 13:27:00,CUST-0087,Standard Class,Completed,Transfer Bank
+ORD-00918,2025-06-10 11:50:00,CUST-0114,First Class,Completed,COD
+ORD-00919,2025-05-22 21:23:00,CUST-0069,Second Class,Completed,Credit Card
+ORD-00920,2026-03-26 15:29:00,CUST-0229,Standard Class,Completed,Credit Card
+ORD-00921,2026-02-01 12:31:00,CUST-0283,Standard Class,Completed,Transfer Bank
+ORD-00922,2025-03-31 18:38:00,CUST-0042,Standard Class,Completed,Credit Card
+ORD-00923,2026-03-16 21:08:00,CUST-0276,Second Class,Completed,E-Wallet
+ORD-00924,2025-05-15 19:56:00,CUST-0040,Standard Class,Completed,Transfer Bank
+ORD-00925,2026-04-02 08:54:00,CUST-0260,First Class,Completed,Transfer Bank
+ORD-00926,2026-02-21 17:37:00,CUST-0208,Standard Class,Completed,E-Wallet
+ORD-00927,2026-04-10 08:35:00,CUST-0134,Standard Class,Completed,COD
+ORD-00928,2025-12-01 20:09:00,CUST-0188,First Class,Completed,COD
+ORD-00929,2025-04-25 20:37:00,CUST-0149,Second Class,Completed,E-Wallet
+ORD-00930,2025-08-26 16:32:00,CUST-0047,Second Class,Completed,COD
+ORD-00931,2025-07-06 16:00:00,CUST-0123,Standard Class,Completed,E-Wallet
+ORD-00932,2026-01-23 16:08:00,CUST-0229,Standard Class,Completed,E-Wallet
+ORD-00933,2025-04-02 17:36:00,CUST-0075,Standard Class,Completed,COD
+ORD-00934,2026-04-26 13:02:00,CUST-0113,Standard Class,Completed,COD
+ORD-00935,2025-04-29 09:16:00,CUST-0190,Standard Class,Returned,E-Wallet
+ORD-00936,2025-01-22 18:13:00,CUST-0266,Standard Class,Completed,Credit Card
+ORD-00937,2025-07-18 15:58:00,CUST-0233,Standard Class,Completed,Transfer Bank
+ORD-00938,2025-01-21 18:20:00,CUST-0053,Standard Class,Completed,Credit Card
+ORD-00939,2026-03-04 19:16:00,CUST-0297,First Class,Completed,E-Wallet
+ORD-00940,2025-07-12 18:24:00,CUST-0188,Standard Class,Cancelled,Transfer Bank
+ORD-00941,2025-09-22 12:24:00,CUST-0115,Standard Class,Completed,COD
+ORD-00942,2025-06-30 21:55:00,CUST-0177,Second Class,Completed,COD
+ORD-00943,2026-02-10 15:56:00,CUST-0004,Second Class,Completed,E-Wallet
+ORD-00944,2025-08-14 10:14:00,CUST-0040,Second Class,Completed,Credit Card
+ORD-00945,2025-04-19 10:11:00,CUST-0081,Standard Class,Completed,Credit Card
+ORD-00946,2025-11-05 19:52:00,CUST-0061,First Class,Completed,E-Wallet
+ORD-00947,2025-08-01 20:21:00,CUST-0059,Standard Class,Completed,COD
+ORD-00948,2025-12-12 15:30:00,CUST-0108,Standard Class,Completed,E-Wallet
+ORD-00949,2025-11-28 21:26:00,CUST-0012,Standard Class,Completed,E-Wallet
+ORD-00950,2025-01-23 10:36:00,CUST-0083,Standard Class,Completed,E-Wallet
+ORD-00951,2025-11-19 16:02:00,CUST-0294,Standard Class,Completed,E-Wallet
+ORD-00952,2025-01-29 10:16:00,CUST-0093,Second Class,Cancelled,COD
+ORD-00953,2025-11-03 17:40:00,CUST-0010,Standard Class,Completed,Credit Card
+ORD-00954,2026-04-30 09:13:00,CUST-0230,Standard Class,Completed,COD
+ORD-00955,2026-03-21 15:10:00,CUST-0113,Standard Class,Completed,COD
+ORD-00956,2025-11-04 10:50:00,CUST-0299,Second Class,Completed,E-Wallet
+ORD-00957,2025-11-16 18:32:00,CUST-0136,Second Class,Completed,E-Wallet
+ORD-00958,2026-01-06 18:21:00,CUST-0233,Standard Class,Completed,Transfer Bank
+ORD-00959,2025-04-28 14:24:00,CUST-0068,Standard Class,Completed,Transfer Bank
+ORD-00960,2025-01-09 11:33:00,CUST-0259,First Class,Completed,COD
+ORD-00961,2026-02-28 10:38:00,CUST-0050,Second Class,Completed,E-Wallet
+ORD-00962,2025-09-01 17:38:00,CUST-0020,First Class,Completed,Transfer Bank
+ORD-00963,2025-02-17 15:42:00,CUST-0067,Standard Class,Completed,Transfer Bank
+ORD-00964,2026-04-05 20:43:00,CUST-0221,Second Class,Completed,COD
+ORD-00965,2025-07-09 21:02:00,CUST-0272,Standard Class,Completed,COD
+ORD-00966,2025-04-28 20:30:00,CUST-0196,First Class,Completed,Credit Card
+ORD-00967,2025-10-29 20:47:00,CUST-0295,Same Day,Completed,Transfer Bank
+ORD-00968,2025-08-06 10:16:00,CUST-0245,Second Class,Completed,E-Wallet
+ORD-00969,2026-04-11 21:05:00,CUST-0146,First Class,Completed,COD
+ORD-00970,2025-05-12 11:00:00,CUST-0004,Same Day,Completed,Transfer Bank
+ORD-00971,2025-09-24 08:24:00,CUST-0106,Standard Class,Completed,Credit Card
+ORD-00972,2025-07-29 13:06:00,CUST-0080,Second Class,Completed,COD
+ORD-00973,2025-11-30 17:16:00,CUST-0134,Same Day,Completed,COD
+ORD-00974,2025-10-17 13:39:00,CUST-0142,Second Class,Completed,COD
+ORD-00975,2026-01-22 11:26:00,CUST-0283,Standard Class,Completed,COD
+ORD-00976,2025-04-02 13:35:00,CUST-0285,Standard Class,Completed,COD
+ORD-00977,2025-05-10 12:36:00,CUST-0177,Standard Class,Completed,COD
+ORD-00978,2026-01-12 10:54:00,CUST-0061,Same Day,Completed,E-Wallet
+ORD-00979,2025-08-17 20:44:00,CUST-0083,Second Class,Completed,Transfer Bank
+ORD-00980,2025-04-20 16:25:00,CUST-0174,Standard Class,Completed,Transfer Bank
+ORD-00981,2025-03-24 14:40:00,CUST-0003,Standard Class,Completed,Transfer Bank
+ORD-00982,2026-02-26 10:30:00,CUST-0223,Second Class,Completed,Transfer Bank
+ORD-00983,2025-02-02 12:14:00,CUST-0190,Standard Class,Completed,Transfer Bank
+ORD-00984,2025-11-08 08:46:00,CUST-0197,Second Class,Completed,COD
+ORD-00985,2025-11-11 18:33:00,CUST-0147,Second Class,Completed,Transfer Bank
+ORD-00986,2026-04-30 20:52:00,CUST-0090,Second Class,Completed,COD
+ORD-00987,2025-08-13 08:12:00,CUST-0266,Standard Class,Completed,Credit Card
+ORD-00988,2025-04-10 08:50:00,CUST-0262,Standard Class,Completed,E-Wallet
+ORD-00989,2025-11-11 10:43:00,CUST-0019,Second Class,Completed,Credit Card
+ORD-00990,2025-05-03 18:00:00,CUST-0081,Second Class,Completed,Transfer Bank
+ORD-00991,2025-05-22 20:25:00,CUST-0181,Second Class,Completed,COD
+ORD-00992,2025-07-27 17:12:00,CUST-0266,Second Class,Completed,Transfer Bank
+ORD-00993,2026-01-13 19:04:00,CUST-0047,Second Class,Completed,Credit Card
+ORD-00994,2026-01-07 21:35:00,CUST-0299,Standard Class,Completed,Credit Card
+ORD-00995,2025-06-27 21:17:00,CUST-0116,First Class,Completed,E-Wallet
+ORD-00996,2025-08-21 14:36:00,CUST-0003,Standard Class,Completed,Credit Card
+ORD-00997,2025-03-31 14:32:00,CUST-0055,First Class,Completed,Transfer Bank
+ORD-00998,2025-09-15 12:21:00,CUST-0060,Standard Class,Completed,Credit Card
+ORD-00999,2026-03-25 16:52:00,CUST-0295,Second Class,Completed,Credit Card
+ORD-01000,2025-12-22 15:24:00,CUST-0289,Standard Class,Completed,COD
+ORD-01001,2026-01-30 11:48:00,CUST-0174,Same Day,Completed,COD
+ORD-01002,2025-12-15 15:57:00,CUST-0015,Standard Class,Completed,COD
+ORD-01003,2025-03-01 12:04:00,CUST-0196,Standard Class,Completed,E-Wallet
+ORD-01004,2025-12-13 19:14:00,CUST-0162,First Class,Returned,COD
+ORD-01005,2026-05-05 13:33:00,CUST-0275,First Class,Completed,Transfer Bank
+ORD-01006,2025-12-25 21:16:00,CUST-0128,First Class,Completed,Credit Card
+ORD-01007,2025-02-17 14:43:00,CUST-0176,First Class,Completed,Transfer Bank
+ORD-01008,2025-10-11 10:30:00,CUST-0161,Second Class,Completed,Credit Card
+ORD-01009,2025-04-22 17:17:00,CUST-0094,Second Class,Completed,E-Wallet
+ORD-01010,2025-09-13 19:12:00,CUST-0121,Standard Class,Completed,E-Wallet
+ORD-01011,2026-03-23 12:13:00,CUST-0118,Standard Class,Completed,E-Wallet
+ORD-01012,2026-03-04 11:53:00,CUST-0183,Standard Class,Completed,E-Wallet
+ORD-01013,2026-02-03 09:07:00,CUST-0041,First Class,Completed,COD
+ORD-01014,2025-11-11 08:48:00,CUST-0278,First Class,Completed,Transfer Bank
+ORD-01015,2026-03-11 15:23:00,CUST-0162,Standard Class,Completed,COD
+ORD-01016,2026-04-05 17:55:00,CUST-0141,Standard Class,Completed,COD
+ORD-01017,2025-04-04 20:58:00,CUST-0262,Standard Class,Completed,Credit Card
+ORD-01018,2025-07-23 11:48:00,CUST-0296,First Class,Completed,E-Wallet
+ORD-01019,2025-01-28 16:51:00,CUST-0217,First Class,Cancelled,COD
+ORD-01020,2026-04-27 16:02:00,CUST-0258,Standard Class,Completed,Credit Card
+ORD-01021,2025-07-21 21:43:00,CUST-0090,Standard Class,Completed,COD
+ORD-01022,2026-05-15 09:44:00,CUST-0266,Standard Class,Completed,COD
+ORD-01023,2025-06-11 19:00:00,CUST-0007,Standard Class,Completed,E-Wallet
+ORD-01024,2025-07-14 17:06:00,CUST-0167,Standard Class,Completed,Credit Card
+ORD-01025,2025-11-10 21:16:00,CUST-0096,Standard Class,Completed,Credit Card
+ORD-01026,2025-05-02 12:30:00,CUST-0176,Second Class,Completed,Credit Card
+ORD-01027,2025-04-05 15:27:00,CUST-0108,Standard Class,Completed,COD
+ORD-01028,2025-12-25 20:23:00,CUST-0187,Standard Class,Completed,COD
+ORD-01029,2025-05-24 15:11:00,CUST-0293,Standard Class,Completed,E-Wallet
+ORD-01030,2025-10-22 18:14:00,CUST-0052,Second Class,Completed,Credit Card
+ORD-01031,2026-02-16 11:35:00,CUST-0222,Second Class,Completed,COD
+ORD-01032,2025-04-11 10:51:00,CUST-0077,Standard Class,Completed,COD
+ORD-01033,2026-02-17 08:11:00,CUST-0216,Standard Class,Completed,COD
+ORD-01034,2025-03-10 21:40:00,CUST-0265,Standard Class,Completed,Credit Card
+ORD-01035,2026-02-07 15:19:00,CUST-0129,Standard Class,Completed,Transfer Bank
+ORD-01036,2025-07-23 09:44:00,CUST-0084,Standard Class,Completed,Transfer Bank
+ORD-01037,2025-04-21 21:16:00,CUST-0244,Standard Class,Completed,Transfer Bank
+ORD-01038,2025-08-19 19:21:00,CUST-0134,Second Class,Completed,Credit Card
+ORD-01039,2025-07-04 16:35:00,CUST-0132,Standard Class,Completed,Credit Card
+ORD-01040,2025-01-11 14:07:00,CUST-0180,Standard Class,Cancelled,E-Wallet
+ORD-01041,2025-10-23 17:41:00,CUST-0276,Standard Class,Completed,E-Wallet
+ORD-01042,2026-02-04 12:22:00,CUST-0167,Second Class,Completed,COD
+ORD-01043,2026-02-01 19:28:00,CUST-0041,Standard Class,Completed,COD
+ORD-01044,2025-11-11 12:29:00,CUST-0075,Standard Class,Completed,E-Wallet
+ORD-01045,2025-11-24 20:59:00,CUST-0173,Second Class,Returned,COD
+ORD-01046,2025-11-20 17:36:00,CUST-0208,Second Class,Completed,Transfer Bank
+ORD-01047,2025-02-10 10:21:00,CUST-0117,Second Class,Completed,Credit Card
+ORD-01048,2025-06-12 18:18:00,CUST-0137,Second Class,Completed,COD
+ORD-01049,2025-05-19 15:49:00,CUST-0186,Standard Class,Completed,COD
+ORD-01050,2025-07-31 10:11:00,CUST-0012,Second Class,Completed,E-Wallet
+ORD-01051,2026-01-08 11:42:00,CUST-0129,Second Class,Completed,Transfer Bank
+ORD-01052,2025-04-18 10:25:00,CUST-0053,First Class,Completed,Transfer Bank
+ORD-01053,2025-02-02 15:35:00,CUST-0028,Standard Class,Completed,Transfer Bank
+ORD-01054,2026-01-30 14:33:00,CUST-0043,Second Class,Completed,Transfer Bank
+ORD-01055,2025-05-15 17:09:00,CUST-0044,Standard Class,Completed,COD
+ORD-01056,2025-06-08 11:15:00,CUST-0146,Second Class,Completed,COD
+ORD-01057,2025-11-17 10:08:00,CUST-0270,Standard Class,Completed,E-Wallet
+ORD-01058,2025-01-15 08:42:00,CUST-0183,Standard Class,Completed,Credit Card
+ORD-01059,2026-03-19 15:29:00,CUST-0277,Standard Class,Completed,Credit Card
+ORD-01060,2025-10-08 15:08:00,CUST-0277,Standard Class,Completed,E-Wallet
+ORD-01061,2025-10-30 17:29:00,CUST-0289,First Class,Completed,COD
+ORD-01062,2025-09-26 18:40:00,CUST-0274,Standard Class,Completed,Credit Card
+ORD-01063,2026-04-11 13:30:00,CUST-0277,Second Class,Completed,E-Wallet
+ORD-01064,2026-02-17 09:28:00,CUST-0158,Standard Class,Completed,Credit Card
+ORD-01065,2025-07-31 12:09:00,CUST-0156,Second Class,Completed,Transfer Bank
+ORD-01066,2025-01-01 16:52:00,CUST-0070,Standard Class,Completed,Credit Card
+ORD-01067,2025-05-27 15:34:00,CUST-0005,First Class,Completed,COD
+ORD-01068,2026-04-30 20:30:00,CUST-0154,Second Class,Completed,Transfer Bank
+ORD-01069,2026-01-28 14:51:00,CUST-0150,Standard Class,Completed,E-Wallet
+ORD-01070,2026-02-12 08:35:00,CUST-0192,Second Class,Completed,E-Wallet
+ORD-01071,2025-07-30 16:27:00,CUST-0203,Standard Class,Completed,E-Wallet
+ORD-01072,2025-03-25 19:47:00,CUST-0200,Second Class,Completed,COD
+ORD-01073,2025-04-23 12:05:00,CUST-0217,Standard Class,Completed,E-Wallet
+ORD-01074,2025-09-22 20:51:00,CUST-0140,Second Class,Completed,Credit Card
+ORD-01075,2025-11-29 19:34:00,CUST-0138,Standard Class,Completed,COD
+ORD-01076,2025-04-07 21:04:00,CUST-0094,Standard Class,Completed,E-Wallet
+ORD-01077,2025-05-29 09:40:00,CUST-0234,Standard Class,Completed,COD
+ORD-01078,2025-05-20 19:39:00,CUST-0252,First Class,Completed,E-Wallet
+ORD-01079,2025-06-14 08:09:00,CUST-0026,Standard Class,Completed,Transfer Bank
+ORD-01080,2025-04-06 09:18:00,CUST-0138,First Class,Cancelled,E-Wallet
+ORD-01081,2026-01-02 15:46:00,CUST-0005,First Class,Completed,E-Wallet
+ORD-01082,2025-02-16 10:00:00,CUST-0253,Second Class,Completed,E-Wallet
+ORD-01083,2025-06-25 14:19:00,CUST-0256,Standard Class,Cancelled,Credit Card
+ORD-01084,2025-08-26 19:50:00,CUST-0017,Second Class,Completed,Credit Card
+ORD-01085,2025-02-11 21:48:00,CUST-0075,First Class,Completed,Transfer Bank
+ORD-01086,2025-05-17 20:25:00,CUST-0037,Standard Class,Completed,COD
+ORD-01087,2025-04-03 11:57:00,CUST-0129,Second Class,Completed,COD
+ORD-01088,2026-03-01 08:07:00,CUST-0128,Second Class,Completed,COD
+ORD-01089,2026-01-30 15:15:00,CUST-0018,Standard Class,Completed,E-Wallet
+ORD-01090,2025-08-24 19:49:00,CUST-0049,Standard Class,Returned,E-Wallet
+ORD-01091,2025-08-31 14:43:00,CUST-0160,Second Class,Completed,Credit Card
+ORD-01092,2025-03-23 18:46:00,CUST-0022,Standard Class,Completed,Transfer Bank
+ORD-01093,2025-05-10 15:40:00,CUST-0153,Standard Class,Completed,E-Wallet
+ORD-01094,2025-07-04 08:55:00,CUST-0112,Second Class,Completed,Transfer Bank
+ORD-01095,2025-05-01 18:27:00,CUST-0167,Standard Class,Completed,Transfer Bank
+ORD-01096,2025-03-27 20:17:00,CUST-0300,Standard Class,Completed,Transfer Bank
+ORD-01097,2025-07-22 20:15:00,CUST-0005,Standard Class,Completed,Transfer Bank
+ORD-01098,2025-10-25 20:44:00,CUST-0244,Standard Class,Completed,E-Wallet
+ORD-01099,2025-07-10 20:05:00,CUST-0128,Standard Class,Completed,E-Wallet
+ORD-01100,2025-09-13 09:43:00,CUST-0174,Standard Class,Completed,Transfer Bank
+ORD-01101,2025-01-31 13:41:00,CUST-0079,Standard Class,Returned,Transfer Bank
+ORD-01102,2025-03-06 15:14:00,CUST-0163,Standard Class,Completed,Credit Card
+ORD-01103,2026-02-17 15:46:00,CUST-0099,Standard Class,Completed,Transfer Bank
+ORD-01104,2025-12-19 14:22:00,CUST-0069,Standard Class,Completed,Credit Card
+ORD-01105,2026-04-06 08:31:00,CUST-0225,Second Class,Completed,Credit Card
+ORD-01106,2025-10-05 19:31:00,CUST-0098,Second Class,Completed,E-Wallet
+ORD-01107,2025-10-06 13:20:00,CUST-0240,Second Class,Completed,Credit Card
+ORD-01108,2026-03-21 21:38:00,CUST-0284,Standard Class,Completed,E-Wallet
+ORD-01109,2025-02-05 16:09:00,CUST-0231,Second Class,Cancelled,Credit Card
+ORD-01110,2026-02-24 12:34:00,CUST-0188,Standard Class,Completed,COD
+ORD-01111,2025-01-01 20:40:00,CUST-0260,First Class,Returned,COD
+ORD-01112,2026-01-11 10:56:00,CUST-0010,Standard Class,Completed,Credit Card
+ORD-01113,2026-02-02 17:15:00,CUST-0165,Standard Class,Completed,Transfer Bank
+ORD-01114,2025-12-04 16:52:00,CUST-0199,First Class,Completed,E-Wallet
+ORD-01115,2025-09-26 18:31:00,CUST-0283,Standard Class,Completed,E-Wallet
+ORD-01116,2025-11-10 12:20:00,CUST-0210,Standard Class,Returned,Credit Card
+ORD-01117,2025-02-26 09:33:00,CUST-0035,Standard Class,Completed,Transfer Bank
+ORD-01118,2026-03-04 10:11:00,CUST-0017,Standard Class,Completed,E-Wallet
+ORD-01119,2025-02-24 15:12:00,CUST-0051,Second Class,Completed,Transfer Bank
+ORD-01120,2025-10-20 18:53:00,CUST-0199,Standard Class,Completed,COD
+ORD-01121,2025-09-27 17:44:00,CUST-0132,Second Class,Completed,Transfer Bank
+ORD-01122,2025-07-07 11:38:00,CUST-0037,Second Class,Completed,Transfer Bank
+ORD-01123,2026-04-22 11:41:00,CUST-0252,Standard Class,Completed,Transfer Bank
+ORD-01124,2025-08-28 20:40:00,CUST-0032,Standard Class,Completed,Credit Card
+ORD-01125,2025-10-13 19:56:00,CUST-0213,First Class,Completed,Credit Card
+ORD-01126,2026-02-11 19:03:00,CUST-0137,Second Class,Completed,Transfer Bank
+ORD-01127,2026-01-11 09:53:00,CUST-0156,First Class,Completed,Transfer Bank
+ORD-01128,2026-04-29 11:33:00,CUST-0050,First Class,Completed,Transfer Bank
+ORD-01129,2026-01-07 11:34:00,CUST-0198,Standard Class,Completed,E-Wallet
+ORD-01130,2025-04-09 16:42:00,CUST-0128,Second Class,Returned,E-Wallet
+ORD-01131,2025-10-13 19:35:00,CUST-0213,Standard Class,Completed,Transfer Bank
+ORD-01132,2026-01-28 18:36:00,CUST-0184,Standard Class,Completed,COD
+ORD-01133,2025-12-26 18:27:00,CUST-0054,Standard Class,Completed,E-Wallet
+ORD-01134,2026-02-10 10:35:00,CUST-0206,Standard Class,Completed,Credit Card
+ORD-01135,2025-12-03 10:34:00,CUST-0227,Standard Class,Completed,Credit Card
+ORD-01136,2026-04-08 13:35:00,CUST-0167,Standard Class,Cancelled,Credit Card
+ORD-01137,2025-07-31 20:40:00,CUST-0221,Standard Class,Completed,Credit Card
+ORD-01138,2025-11-08 11:36:00,CUST-0280,Standard Class,Completed,E-Wallet
+ORD-01139,2025-07-12 20:35:00,CUST-0131,Standard Class,Completed,Credit Card
+ORD-01140,2026-05-08 15:28:00,CUST-0204,Standard Class,Completed,Transfer Bank
+ORD-01141,2026-01-07 08:18:00,CUST-0009,Second Class,Completed,E-Wallet
+ORD-01142,2026-04-01 12:00:00,CUST-0154,Standard Class,Completed,E-Wallet
+ORD-01143,2025-04-20 21:20:00,CUST-0012,Second Class,Completed,Credit Card
+ORD-01144,2026-04-16 16:32:00,CUST-0285,First Class,Completed,E-Wallet
+ORD-01145,2025-02-18 08:29:00,CUST-0183,Standard Class,Completed,E-Wallet
+ORD-01146,2025-03-12 12:23:00,CUST-0299,Standard Class,Completed,E-Wallet
+ORD-01147,2025-04-30 12:51:00,CUST-0154,Standard Class,Returned,Transfer Bank
+ORD-01148,2025-10-20 14:36:00,CUST-0112,First Class,Completed,Transfer Bank
+ORD-01149,2026-01-06 13:50:00,CUST-0248,Standard Class,Completed,E-Wallet
+ORD-01150,2025-09-07 21:57:00,CUST-0296,Standard Class,Completed,Transfer Bank
+ORD-01151,2025-11-01 18:19:00,CUST-0020,First Class,Completed,COD
+ORD-01152,2025-02-10 20:03:00,CUST-0172,Standard Class,Returned,Credit Card
+ORD-01153,2026-03-27 21:27:00,CUST-0214,Standard Class,Completed,Transfer Bank
+ORD-01154,2026-03-22 20:14:00,CUST-0006,Second Class,Completed,COD
+ORD-01155,2025-01-28 12:33:00,CUST-0022,Standard Class,Completed,Credit Card
+ORD-01156,2025-10-04 17:09:00,CUST-0168,Standard Class,Completed,E-Wallet
+ORD-01157,2025-03-20 08:43:00,CUST-0202,Standard Class,Completed,COD
+ORD-01158,2026-01-21 17:36:00,CUST-0259,Standard Class,Completed,Transfer Bank
+ORD-01159,2025-04-24 14:18:00,CUST-0202,Second Class,Completed,E-Wallet
+ORD-01160,2025-03-09 13:05:00,CUST-0244,Standard Class,Completed,Transfer Bank
+ORD-01161,2025-10-08 14:16:00,CUST-0044,Standard Class,Completed,COD
+ORD-01162,2025-09-14 14:49:00,CUST-0067,Standard Class,Completed,E-Wallet
+ORD-01163,2025-09-04 16:12:00,CUST-0250,Second Class,Completed,COD
+ORD-01164,2025-11-30 17:12:00,CUST-0288,First Class,Cancelled,E-Wallet
+ORD-01165,2025-05-05 09:17:00,CUST-0221,Standard Class,Completed,Credit Card
+ORD-01166,2025-12-17 17:05:00,CUST-0058,Standard Class,Cancelled,COD
+ORD-01167,2025-08-05 13:22:00,CUST-0098,Same Day,Completed,Credit Card
+ORD-01168,2025-06-26 17:41:00,CUST-0013,Standard Class,Completed,Credit Card
+ORD-01169,2025-03-28 13:39:00,CUST-0227,Standard Class,Completed,E-Wallet
+ORD-01170,2025-08-14 08:59:00,CUST-0120,Standard Class,Completed,E-Wallet
+ORD-01171,2025-12-17 13:09:00,CUST-0044,Second Class,Completed,Transfer Bank
+ORD-01172,2026-01-14 08:15:00,CUST-0076,Standard Class,Completed,Credit Card
+ORD-01173,2025-01-08 13:44:00,CUST-0057,Standard Class,Completed,Credit Card
+ORD-01174,2025-08-19 15:01:00,CUST-0170,Standard Class,Completed,E-Wallet
+ORD-01175,2026-01-14 16:13:00,CUST-0105,Standard Class,Completed,Credit Card
+ORD-01176,2025-10-08 15:39:00,CUST-0073,Standard Class,Completed,Transfer Bank
+ORD-01177,2025-07-12 17:57:00,CUST-0270,Standard Class,Completed,Transfer Bank
+ORD-01178,2025-05-11 10:03:00,CUST-0146,Standard Class,Completed,E-Wallet
+ORD-01179,2026-02-09 19:39:00,CUST-0139,Standard Class,Completed,Transfer Bank
+ORD-01180,2025-08-27 18:00:00,CUST-0035,Standard Class,Completed,COD
+ORD-01181,2025-12-05 12:42:00,CUST-0185,Standard Class,Completed,Transfer Bank
+ORD-01182,2025-01-10 12:55:00,CUST-0198,First Class,Completed,E-Wallet
+ORD-01183,2025-07-14 16:45:00,CUST-0051,Standard Class,Completed,Credit Card
+ORD-01184,2025-09-06 21:38:00,CUST-0273,Standard Class,Completed,Transfer Bank
+ORD-01185,2025-04-06 11:32:00,CUST-0235,Standard Class,Completed,Transfer Bank
+ORD-01186,2025-01-21 11:59:00,CUST-0272,Standard Class,Completed,Credit Card
+ORD-01187,2025-06-20 15:25:00,CUST-0081,Second Class,Completed,Transfer Bank
+ORD-01188,2025-06-27 18:22:00,CUST-0182,Second Class,Completed,Credit Card
+ORD-01189,2025-05-01 16:17:00,CUST-0032,Standard Class,Completed,Credit Card
+ORD-01190,2026-03-26 14:56:00,CUST-0016,Standard Class,Completed,Credit Card
+ORD-01191,2025-04-26 10:21:00,CUST-0202,Standard Class,Completed,E-Wallet
+ORD-01192,2025-02-14 19:24:00,CUST-0267,Second Class,Completed,E-Wallet
+ORD-01193,2025-08-02 11:36:00,CUST-0079,Standard Class,Completed,COD
+ORD-01194,2026-05-12 12:58:00,CUST-0169,Standard Class,Completed,COD
+ORD-01195,2025-10-05 10:13:00,CUST-0071,Second Class,Completed,E-Wallet
+ORD-01196,2026-03-18 10:19:00,CUST-0269,Standard Class,Completed,E-Wallet
+ORD-01197,2025-08-09 20:09:00,CUST-0290,Standard Class,Completed,E-Wallet
+ORD-01198,2025-06-12 09:35:00,CUST-0273,Standard Class,Completed,Transfer Bank
+ORD-01199,2025-04-05 13:53:00,CUST-0075,First Class,Completed,Transfer Bank
+ORD-01200,2026-01-27 13:56:00,CUST-0212,First Class,Completed,COD

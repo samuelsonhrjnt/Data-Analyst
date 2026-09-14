@@ -1,0 +1,301 @@
+customer_id,customer_name,segment,city,region
+CUST-0001,Budi Utami,Consumer,Jakarta Selatan,Jawa
+CUST-0002,Agus Hidayat,Home Office,Medan,Sumatra
+CUST-0003,Rian Saputra,Corporate,Surabaya,Jawa
+CUST-0004,Dewi Wibowo,Corporate,Palembang,Sumatra
+CUST-0005,Siti Santoso,Consumer,Semarang,Jawa
+CUST-0006,Rina Hidayat,Consumer,Jakarta Selatan,Jawa
+CUST-0007,Ahmad Santoso,Consumer,Palembang,Sumatra
+CUST-0008,Rina Utami,Home Office,Palembang,Sumatra
+CUST-0009,Fajar Hidayat,Corporate,Palembang,Sumatra
+CUST-0010,Nani Prasetyo,Corporate,Denpasar,Bali & Nusa Tenggara
+CUST-0011,Andi Utami,Consumer,Yogyakarta,Jawa
+CUST-0012,Maya Prasetyo,Home Office,Semarang,Jawa
+CUST-0013,Rina Pertiwi,Home Office,Surabaya,Jawa
+CUST-0014,Rian Aminah,Consumer,Makassar,Sulawesi
+CUST-0015,Rian Wijaya,Consumer,Semarang,Jawa
+CUST-0016,Ahmad Prasetyo,Consumer,Makassar,Sulawesi
+CUST-0017,Indah Suryani,Consumer,Yogyakarta,Jawa
+CUST-0018,Dian Aminah,Corporate,Jakarta Selatan,Jawa
+CUST-0019,Hendra Hadi,Consumer,Palembang,Sumatra
+CUST-0020,Rizky Wibowo,Consumer,Balikpapan,Kalimantan
+CUST-0021,Dewi Santoso,Corporate,Bandung,Jawa
+CUST-0022,Hendra Aminah,Consumer,Bandung,Jawa
+CUST-0023,Rian Kurniawan,Consumer,Bandung,Jawa
+CUST-0024,Indah Saputra,Consumer,Medan,Sumatra
+CUST-0025,Andi Wijaya,Consumer,Makassar,Sulawesi
+CUST-0026,Rina Saputra,Corporate,Makassar,Sulawesi
+CUST-0027,Dewi Wibowo,Consumer,Medan,Sumatra
+CUST-0028,Yudi Utami,Corporate,Surabaya,Jawa
+CUST-0029,Andi Nugroho,Corporate,Bandung,Jawa
+CUST-0030,Lestari Setiawan,Consumer,Semarang,Jawa
+CUST-0031,Agus Saputra,Corporate,Palembang,Sumatra
+CUST-0032,Siti Hidayat,Consumer,Makassar,Sulawesi
+CUST-0033,Maya Kurniawan,Consumer,Yogyakarta,Jawa
+CUST-0034,Dewi Hidayat,Home Office,Medan,Sumatra
+CUST-0035,Maya Hidayat,Home Office,Balikpapan,Kalimantan
+CUST-0036,Dian Setiawan,Home Office,Denpasar,Bali & Nusa Tenggara
+CUST-0037,Eko Prasetyo,Consumer,Denpasar,Bali & Nusa Tenggara
+CUST-0038,Agus Utami,Consumer,Surabaya,Jawa
+CUST-0039,Yudi Prasetyo,Corporate,Palembang,Sumatra
+CUST-0040,Fajar Setiawan,Consumer,Balikpapan,Kalimantan
+CUST-0041,Dian Wijaya,Consumer,Balikpapan,Kalimantan
+CUST-0042,Eko Suryani,Consumer,Bandung,Jawa
+CUST-0043,Dewi Pertiwi,Consumer,Denpasar,Bali & Nusa Tenggara
+CUST-0044,Rian Lestari,Home Office,Yogyakarta,Jawa
+CUST-0045,Fajar Wibowo,Consumer,Surabaya,Jawa
+CUST-0046,Dian Kurniawan,Corporate,Jakarta Selatan,Jawa
+CUST-0047,Indah Suryani,Consumer,Balikpapan,Kalimantan
+CUST-0048,Yudi Hadi,Corporate,Medan,Sumatra
+CUST-0049,Rian Saputra,Corporate,Yogyakarta,Jawa
+CUST-0050,Lestari Pertiwi,Consumer,Palembang,Sumatra
+CUST-0051,Rian Prasetyo,Home Office,Makassar,Sulawesi
+CUST-0052,Andi Nugroho,Corporate,Semarang,Jawa
+CUST-0053,Lestari Suryani,Home Office,Yogyakarta,Jawa
+CUST-0054,Titi Setiawan,Home Office,Surabaya,Jawa
+CUST-0055,Hendra Hadi,Corporate,Jakarta Selatan,Jawa
+CUST-0056,Ahmad Hidayat,Home Office,Palembang,Sumatra
+CUST-0057,Rizky Pertiwi,Consumer,Surabaya,Jawa
+CUST-0058,Yudi Pertiwi,Consumer,Surabaya,Jawa
+CUST-0059,Budi Wibowo,Consumer,Palembang,Sumatra
+CUST-0060,Bambang Santoso,Consumer,Makassar,Sulawesi
+CUST-0061,Rizky Setiawan,Consumer,Jakarta Selatan,Jawa
+CUST-0062,Agus Santoso,Consumer,Medan,Sumatra
+CUST-0063,Nani Aminah,Home Office,Bandung,Jawa
+CUST-0064,Bambang Hadi,Consumer,Jakarta Selatan,Jawa
+CUST-0065,Yudi Pertiwi,Consumer,Jakarta Selatan,Jawa
+CUST-0066,Eko Saputra,Corporate,Surabaya,Jawa
+CUST-0067,Yudi Lestari,Consumer,Denpasar,Bali & Nusa Tenggara
+CUST-0068,Titi Hadi,Home Office,Medan,Sumatra
+CUST-0069,Fajar Hidayat,Consumer,Balikpapan,Kalimantan
+CUST-0070,Rina Utami,Home Office,Palembang,Sumatra
+CUST-0071,Dian Saputra,Corporate,Medan,Sumatra
+CUST-0072,Indah Setiawan,Consumer,Makassar,Sulawesi
+CUST-0073,Indah Aminah,Consumer,Palembang,Sumatra
+CUST-0074,Agus Aminah,Home Office,Bandung,Jawa
+CUST-0075,Budi Wibowo,Corporate,Makassar,Sulawesi
+CUST-0076,Agus Wibowo,Corporate,Palembang,Sumatra
+CUST-0077,Budi Aminah,Corporate,Bandung,Jawa
+CUST-0078,Agus Aminah,Consumer,Yogyakarta,Jawa
+CUST-0079,Maya Aminah,Consumer,Yogyakarta,Jawa
+CUST-0080,Agus Prasetyo,Consumer,Palembang,Sumatra
+CUST-0081,Rina Suryani,Home Office,Denpasar,Bali & Nusa Tenggara
+CUST-0082,Nani Wibowo,Corporate,Surabaya,Jawa
+CUST-0083,Agus Pertiwi,Consumer,Denpasar,Bali & Nusa Tenggara
+CUST-0084,Fajar Hidayat,Consumer,Denpasar,Bali & Nusa Tenggara
+CUST-0085,Rian Saputra,Consumer,Jakarta Selatan,Jawa
+CUST-0086,Rizky Kurniawan,Consumer,Semarang,Jawa
+CUST-0087,Indah Hadi,Corporate,Semarang,Jawa
+CUST-0088,Rian Santoso,Corporate,Yogyakarta,Jawa
+CUST-0089,Maya Pertiwi,Home Office,Semarang,Jawa
+CUST-0090,Agus Hidayat,Consumer,Jakarta Selatan,Jawa
+CUST-0091,Yudi Nugroho,Consumer,Bandung,Jawa
+CUST-0092,Fajar Lestari,Corporate,Surabaya,Jawa
+CUST-0093,Indah Hidayat,Corporate,Medan,Sumatra
+CUST-0094,Indah Pertiwi,Corporate,Jakarta Selatan,Jawa
+CUST-0095,Rian Santoso,Corporate,Palembang,Sumatra
+CUST-0096,Budi Aminah,Consumer,Palembang,Sumatra
+CUST-0097,Andi Kurniawan,Corporate,Bandung,Jawa
+CUST-0098,Bambang Hidayat,Consumer,Denpasar,Bali & Nusa Tenggara
+CUST-0099,Siti Lestari,Consumer,Semarang,Jawa
+CUST-0100,Budi Kurniawan,Consumer,Semarang,Jawa
+CUST-0101,Indah Prasetyo,Consumer,Medan,Sumatra
+CUST-0102,Yudi Saputra,Corporate,Semarang,Jawa
+CUST-0103,Eko Hidayat,Consumer,Denpasar,Bali & Nusa Tenggara
+CUST-0104,Rina Santoso,Corporate,Medan,Sumatra
+CUST-0105,Yudi Santoso,Home Office,Balikpapan,Kalimantan
+CUST-0106,Siti Santoso,Consumer,Makassar,Sulawesi
+CUST-0107,Bambang Suryani,Consumer,Balikpapan,Kalimantan
+CUST-0108,Andi Santoso,Corporate,Palembang,Sumatra
+CUST-0109,Dewi Hadi,Consumer,Palembang,Sumatra
+CUST-0110,Dewi Wibowo,Consumer,Surabaya,Jawa
+CUST-0111,Agus Kurniawan,Consumer,Jakarta Selatan,Jawa
+CUST-0112,Nani Hidayat,Consumer,Jakarta Selatan,Jawa
+CUST-0113,Ahmad Santoso,Home Office,Balikpapan,Kalimantan
+CUST-0114,Dewi Kurniawan,Home Office,Balikpapan,Kalimantan
+CUST-0115,Nani Suryani,Corporate,Balikpapan,Kalimantan
+CUST-0116,Lestari Hidayat,Home Office,Makassar,Sulawesi
+CUST-0117,Agus Prasetyo,Home Office,Makassar,Sulawesi
+CUST-0118,Eko Saputra,Consumer,Semarang,Jawa
+CUST-0119,Indah Wijaya,Home Office,Medan,Sumatra
+CUST-0120,Budi Nugroho,Corporate,Jakarta Selatan,Jawa
+CUST-0121,Nani Aminah,Home Office,Balikpapan,Kalimantan
+CUST-0122,Yudi Hidayat,Home Office,Jakarta Selatan,Jawa
+CUST-0123,Lestari Lestari,Consumer,Palembang,Sumatra
+CUST-0124,Dewi Setiawan,Consumer,Makassar,Sulawesi
+CUST-0125,Rizky Prasetyo,Consumer,Bandung,Jawa
+CUST-0126,Indah Hadi,Consumer,Surabaya,Jawa
+CUST-0127,Hendra Wibowo,Home Office,Palembang,Sumatra
+CUST-0128,Budi Saputra,Home Office,Palembang,Sumatra
+CUST-0129,Hendra Setiawan,Consumer,Palembang,Sumatra
+CUST-0130,Eko Prasetyo,Corporate,Jakarta Selatan,Jawa
+CUST-0131,Rian Utami,Consumer,Jakarta Selatan,Jawa
+CUST-0132,Eko Prasetyo,Consumer,Palembang,Sumatra
+CUST-0133,Ahmad Hidayat,Consumer,Medan,Sumatra
+CUST-0134,Rina Saputra,Consumer,Makassar,Sulawesi
+CUST-0135,Titi Nugroho,Home Office,Medan,Sumatra
+CUST-0136,Siti Aminah,Consumer,Medan,Sumatra
+CUST-0137,Lestari Santoso,Corporate,Semarang,Jawa
+CUST-0138,Maya Pertiwi,Corporate,Yogyakarta,Jawa
+CUST-0139,Lestari Lestari,Consumer,Surabaya,Jawa
+CUST-0140,Yudi Utami,Home Office,Denpasar,Bali & Nusa Tenggara
+CUST-0141,Yudi Santoso,Home Office,Semarang,Jawa
+CUST-0142,Dewi Setiawan,Consumer,Jakarta Selatan,Jawa
+CUST-0143,Yudi Santoso,Consumer,Surabaya,Jawa
+CUST-0144,Nani Suryani,Consumer,Makassar,Sulawesi
+CUST-0145,Fajar Lestari,Consumer,Surabaya,Jawa
+CUST-0146,Hendra Wijaya,Consumer,Yogyakarta,Jawa
+CUST-0147,Rizky Hidayat,Corporate,Yogyakarta,Jawa
+CUST-0148,Rian Wijaya,Corporate,Bandung,Jawa
+CUST-0149,Fajar Wibowo,Consumer,Palembang,Sumatra
+CUST-0150,Agus Hadi,Consumer,Surabaya,Jawa
+CUST-0151,Andi Setiawan,Home Office,Surabaya,Jawa
+CUST-0152,Budi Lestari,Consumer,Semarang,Jawa
+CUST-0153,Fajar Pertiwi,Consumer,Makassar,Sulawesi
+CUST-0154,Lestari Lestari,Consumer,Bandung,Jawa
+CUST-0155,Dian Hadi,Home Office,Jakarta Selatan,Jawa
+CUST-0156,Bambang Hidayat,Consumer,Yogyakarta,Jawa
+CUST-0157,Indah Wijaya,Corporate,Bandung,Jawa
+CUST-0158,Agus Hidayat,Corporate,Medan,Sumatra
+CUST-0159,Rina Kurniawan,Consumer,Yogyakarta,Jawa
+CUST-0160,Lestari Hadi,Corporate,Makassar,Sulawesi
+CUST-0161,Lestari Wijaya,Consumer,Jakarta Selatan,Jawa
+CUST-0162,Dian Saputra,Corporate,Palembang,Sumatra
+CUST-0163,Maya Santoso,Corporate,Palembang,Sumatra
+CUST-0164,Lestari Lestari,Corporate,Jakarta Selatan,Jawa
+CUST-0165,Lestari Santoso,Consumer,Balikpapan,Kalimantan
+CUST-0166,Ahmad Kurniawan,Home Office,Jakarta Selatan,Jawa
+CUST-0167,Maya Kurniawan,Consumer,Makassar,Sulawesi
+CUST-0168,Titi Aminah,Consumer,Balikpapan,Kalimantan
+CUST-0169,Nani Hidayat,Consumer,Semarang,Jawa
+CUST-0170,Siti Utami,Corporate,Medan,Sumatra
+CUST-0171,Budi Suryani,Corporate,Semarang,Jawa
+CUST-0172,Rina Wijaya,Consumer,Palembang,Sumatra
+CUST-0173,Dewi Saputra,Corporate,Semarang,Jawa
+CUST-0174,Ahmad Wijaya,Consumer,Makassar,Sulawesi
+CUST-0175,Hendra Suryani,Corporate,Jakarta Selatan,Jawa
+CUST-0176,Fajar Wijaya,Consumer,Medan,Sumatra
+CUST-0177,Hendra Suryani,Corporate,Semarang,Jawa
+CUST-0178,Rina Kurniawan,Consumer,Surabaya,Jawa
+CUST-0179,Andi Wibowo,Home Office,Semarang,Jawa
+CUST-0180,Hendra Kurniawan,Consumer,Balikpapan,Kalimantan
+CUST-0181,Budi Prasetyo,Consumer,Palembang,Sumatra
+CUST-0182,Rina Kurniawan,Consumer,Medan,Sumatra
+CUST-0183,Ahmad Saputra,Home Office,Balikpapan,Kalimantan
+CUST-0184,Indah Nugroho,Home Office,Makassar,Sulawesi
+CUST-0185,Rina Suryani,Consumer,Denpasar,Bali & Nusa Tenggara
+CUST-0186,Andi Saputra,Corporate,Denpasar,Bali & Nusa Tenggara
+CUST-0187,Hendra Suryani,Home Office,Jakarta Selatan,Jawa
+CUST-0188,Maya Aminah,Corporate,Balikpapan,Kalimantan
+CUST-0189,Hendra Hidayat,Corporate,Bandung,Jawa
+CUST-0190,Eko Santoso,Consumer,Bandung,Jawa
+CUST-0191,Agus Nugroho,Consumer,Yogyakarta,Jawa
+CUST-0192,Dewi Nugroho,Home Office,Balikpapan,Kalimantan
+CUST-0193,Nani Hidayat,Home Office,Semarang,Jawa
+CUST-0194,Bambang Kurniawan,Corporate,Semarang,Jawa
+CUST-0195,Eko Saputra,Consumer,Bandung,Jawa
+CUST-0196,Rian Pertiwi,Consumer,Yogyakarta,Jawa
+CUST-0197,Agus Lestari,Corporate,Semarang,Jawa
+CUST-0198,Indah Santoso,Home Office,Palembang,Sumatra
+CUST-0199,Agus Setiawan,Home Office,Palembang,Sumatra
+CUST-0200,Indah Lestari,Corporate,Jakarta Selatan,Jawa
+CUST-0201,Titi Suryani,Corporate,Denpasar,Bali & Nusa Tenggara
+CUST-0202,Maya Pertiwi,Consumer,Balikpapan,Kalimantan
+CUST-0203,Ahmad Hadi,Consumer,Denpasar,Bali & Nusa Tenggara
+CUST-0204,Fajar Hadi,Home Office,Palembang,Sumatra
+CUST-0205,Indah Setiawan,Corporate,Palembang,Sumatra
+CUST-0206,Bambang Nugroho,Consumer,Surabaya,Jawa
+CUST-0207,Agus Hadi,Consumer,Medan,Sumatra
+CUST-0208,Titi Nugroho,Corporate,Medan,Sumatra
+CUST-0209,Lestari Nugroho,Consumer,Bandung,Jawa
+CUST-0210,Hendra Hidayat,Consumer,Jakarta Selatan,Jawa
+CUST-0211,Maya Wijaya,Corporate,Medan,Sumatra
+CUST-0212,Dewi Lestari,Corporate,Palembang,Sumatra
+CUST-0213,Agus Kurniawan,Corporate,Surabaya,Jawa
+CUST-0214,Rina Aminah,Consumer,Surabaya,Jawa
+CUST-0215,Fajar Wijaya,Corporate,Semarang,Jawa
+CUST-0216,Indah Kurniawan,Consumer,Palembang,Sumatra
+CUST-0217,Rina Hadi,Consumer,Yogyakarta,Jawa
+CUST-0218,Dian Setiawan,Corporate,Semarang,Jawa
+CUST-0219,Budi Hadi,Corporate,Balikpapan,Kalimantan
+CUST-0220,Dian Nugroho,Home Office,Balikpapan,Kalimantan
+CUST-0221,Rizky Prasetyo,Corporate,Yogyakarta,Jawa
+CUST-0222,Fajar Suryani,Corporate,Semarang,Jawa
+CUST-0223,Ahmad Setiawan,Consumer,Palembang,Sumatra
+CUST-0224,Bambang Hidayat,Consumer,Bandung,Jawa
+CUST-0225,Fajar Nugroho,Consumer,Medan,Sumatra
+CUST-0226,Dian Wijaya,Consumer,Yogyakarta,Jawa
+CUST-0227,Andi Hadi,Home Office,Semarang,Jawa
+CUST-0228,Eko Wibowo,Consumer,Denpasar,Bali & Nusa Tenggara
+CUST-0229,Budi Setiawan,Home Office,Palembang,Sumatra
+CUST-0230,Nani Wibowo,Corporate,Semarang,Jawa
+CUST-0231,Dewi Saputra,Corporate,Yogyakarta,Jawa
+CUST-0232,Eko Hadi,Corporate,Semarang,Jawa
+CUST-0233,Andi Santoso,Corporate,Denpasar,Bali & Nusa Tenggara
+CUST-0234,Dian Wijaya,Consumer,Medan,Sumatra
+CUST-0235,Indah Wijaya,Consumer,Bandung,Jawa
+CUST-0236,Dian Prasetyo,Corporate,Makassar,Sulawesi
+CUST-0237,Lestari Hadi,Consumer,Semarang,Jawa
+CUST-0238,Bambang Santoso,Consumer,Jakarta Selatan,Jawa
+CUST-0239,Siti Wijaya,Corporate,Palembang,Sumatra
+CUST-0240,Dewi Pertiwi,Consumer,Bandung,Jawa
+CUST-0241,Budi Hidayat,Home Office,Yogyakarta,Jawa
+CUST-0242,Budi Wibowo,Home Office,Bandung,Jawa
+CUST-0243,Agus Lestari,Home Office,Surabaya,Jawa
+CUST-0244,Rian Wibowo,Consumer,Denpasar,Bali & Nusa Tenggara
+CUST-0245,Indah Utami,Consumer,Bandung,Jawa
+CUST-0246,Rizky Lestari,Home Office,Medan,Sumatra
+CUST-0247,Ahmad Utami,Consumer,Balikpapan,Kalimantan
+CUST-0248,Andi Prasetyo,Home Office,Jakarta Selatan,Jawa
+CUST-0249,Nani Santoso,Home Office,Jakarta Selatan,Jawa
+CUST-0250,Nani Saputra,Home Office,Medan,Sumatra
+CUST-0251,Dian Utami,Consumer,Semarang,Jawa
+CUST-0252,Dewi Wibowo,Consumer,Bandung,Jawa
+CUST-0253,Rian Utami,Home Office,Bandung,Jawa
+CUST-0254,Ahmad Pertiwi,Consumer,Medan,Sumatra
+CUST-0255,Nani Pertiwi,Consumer,Jakarta Selatan,Jawa
+CUST-0256,Rizky Suryani,Corporate,Yogyakarta,Jawa
+CUST-0257,Rizky Aminah,Home Office,Semarang,Jawa
+CUST-0258,Maya Santoso,Corporate,Palembang,Sumatra
+CUST-0259,Bambang Aminah,Corporate,Semarang,Jawa
+CUST-0260,Rizky Saputra,Consumer,Semarang,Jawa
+CUST-0261,Eko Kurniawan,Corporate,Denpasar,Bali & Nusa Tenggara
+CUST-0262,Titi Saputra,Home Office,Surabaya,Jawa
+CUST-0263,Ahmad Pertiwi,Consumer,Medan,Sumatra
+CUST-0264,Bambang Nugroho,Corporate,Palembang,Sumatra
+CUST-0265,Nani Prasetyo,Home Office,Semarang,Jawa
+CUST-0266,Agus Hadi,Corporate,Makassar,Sulawesi
+CUST-0267,Lestari Setiawan,Corporate,Jakarta Selatan,Jawa
+CUST-0268,Agus Pertiwi,Corporate,Denpasar,Bali & Nusa Tenggara
+CUST-0269,Nani Wibowo,Consumer,Denpasar,Bali & Nusa Tenggara
+CUST-0270,Maya Santoso,Consumer,Semarang,Jawa
+CUST-0271,Maya Lestari,Home Office,Denpasar,Bali & Nusa Tenggara
+CUST-0272,Rina Wijaya,Home Office,Denpasar,Bali & Nusa Tenggara
+CUST-0273,Maya Prasetyo,Home Office,Medan,Sumatra
+CUST-0274,Lestari Suryani,Home Office,Balikpapan,Kalimantan
+CUST-0275,Titi Hidayat,Corporate,Yogyakarta,Jawa
+CUST-0276,Agus Utami,Corporate,Jakarta Selatan,Jawa
+CUST-0277,Bambang Suryani,Corporate,Semarang,Jawa
+CUST-0278,Bambang Saputra,Corporate,Bandung,Jawa
+CUST-0279,Indah Pertiwi,Corporate,Denpasar,Bali & Nusa Tenggara
+CUST-0280,Dewi Prasetyo,Corporate,Yogyakarta,Jawa
+CUST-0281,Dian Utami,Home Office,Bandung,Jawa
+CUST-0282,Hendra Saputra,Consumer,Bandung,Jawa
+CUST-0283,Rizky Nugroho,Consumer,Balikpapan,Kalimantan
+CUST-0284,Titi Wijaya,Consumer,Palembang,Sumatra
+CUST-0285,Yudi Wijaya,Corporate,Semarang,Jawa
+CUST-0286,Indah Prasetyo,Consumer,Makassar,Sulawesi
+CUST-0287,Lestari Hidayat,Consumer,Medan,Sumatra
+CUST-0288,Rina Wijaya,Corporate,Jakarta Selatan,Jawa
+CUST-0289,Yudi Pertiwi,Consumer,Jakarta Selatan,Jawa
+CUST-0290,Rina Hidayat,Corporate,Surabaya,Jawa
+CUST-0291,Lestari Utami,Consumer,Denpasar,Bali & Nusa Tenggara
+CUST-0292,Titi Wibowo,Consumer,Balikpapan,Kalimantan
+CUST-0293,Rian Hadi,Home Office,Medan,Sumatra
+CUST-0294,Hendra Hidayat,Consumer,Bandung,Jawa
+CUST-0295,Andi Prasetyo,Consumer,Makassar,Sulawesi
+CUST-0296,Yudi Lestari,Corporate,Yogyakarta,Jawa
+CUST-0297,Siti Santoso,Corporate,Medan,Sumatra
+CUST-0298,Hendra Utami,Consumer,Palembang,Sumatra
+CUST-0299,Bambang Aminah,Corporate,Surabaya,Jawa
+CUST-0300,Nani Prasetyo,Consumer,Yogyakarta,Jawa

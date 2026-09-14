@@ -1,0 +1,26 @@
+product_id,product_name,category,sub_category,price,cost_price
+PROD-001,Mouse Wireless M185,Elektronik,Aksesoris Komputer,150000,95000
+PROD-002,Keyboard Mechanical RGB,Elektronik,Aksesoris Komputer,450000,280000
+PROD-003,Headset Gaming Surround 7.1,Elektronik,Audio,350000,210000
+PROD-004,Stand Laptop Aluminium,Elektronik,Aksesoris Komputer,120000,70000
+PROD-005,Monitor 24 inch IPS 75Hz,Elektronik,Display,1800000,1350000
+PROD-006,Kabel Data Type-C Fast Charge,Elektronik,Aksesoris Mobile,35000,15000
+PROD-007,Powerbank 10000mAh Dual Port,Elektronik,Aksesoris Mobile,200000,120000
+PROD-008,Webcam Full HD 1080p,Elektronik,Aksesoris Komputer,280000,175000
+PROD-009,Earphones TWS Bluetooth 5.3,Elektronik,Audio,250000,140000
+PROD-010,USB Flashdrive 64GB,Elektronik,Storage,85000,45000
+PROD-011,Kaos Polos Cotton Combed 30s,Pakaian,Pria,75000,35000
+PROD-012,Kemeja Flanel Lengan Panjang,Pakaian,Pria,165000,90000
+PROD-013,Jaket Hoodie Fleece,Pakaian,Pria,220000,125000
+PROD-014,Celana Chino Slim Fit,Pakaian,Pria,185000,100000
+PROD-015,Blouse Wanita Casual,Pakaian,Wanita,135000,70000
+PROD-016,Tunik Batik Modern,Pakaian,Wanita,175000,95000
+PROD-017,Topi Baseball Canvas,Pakaian,Aksesoris Fashion,50000,22000
+PROD-018,Botol Minum Tumbler 500ml,Perlengkapan Rumah,Dapur & Makan,95000,48000
+PROD-019,Lampu Meja LED Belajar,Perlengkapan Rumah,Dekorasi,110000,60000
+PROD-020,Organizer Meja Acrylic,Perlengkapan Rumah,Storage,65000,32000
+PROD-021,Bantal Leher Memory Foam,Perlengkapan Rumah,Kebutuhan Harian,85000,42000
+PROD-022,Rak Sepatu Susun Plastik,Perlengkapan Rumah,Storage,125000,68000
+PROD-023,Buku Catatan Hardcover A5,Alat Tulis & Kantor,Kertas & Buku,45000,20000
+PROD-024,Pulpen Gel Pack 12 Pcs,Alat Tulis & Kantor,Alat Tulis,36000,18000
+PROD-025,Desk Mat Deskpad Leather,Alat Tulis & Kantor,Aksesoris Meja,95000,50000
