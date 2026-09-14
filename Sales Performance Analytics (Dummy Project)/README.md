@@ -52,7 +52,7 @@ sales-performance-analytics/
 └── README.md                          # Dokumentasi utama proyek
 ```
 
-##💡 Key Business Insights
+## 💡 Key Business Insights
 
 Kategori Electronics vs. Apparel:
 
@@ -68,14 +68,14 @@ Perilaku Pembelian Segmen Pelanggan:
 
 Segmen Corporate memiliki Average Order Value (AOV) tertinggi dibandingkan segmen Consumer dan Home Office, dengan kecenderungan bertransaksi pada pertengahan bulan.
 
-📈 Strategic Recommendations
+## 📈 Strategic Recommendations
 Optimasi Strategi Promo: Hentikan diskon langsung (flat discount) di atas 10% untuk produk berkategori Furniture. Dialihkan menggunakan skema bundling produk (misal: beli meja gratis aksesori) untuk mempertahankan margin kotor.
 
 Pengelolaan Inventaris: Prioritaskan ketersediaan stok (stock-keeping) untuk 5 produk teratas (Top 5 Products) guna mencegah kerugian potensi omzet (out-of-stock) pada periode puncak penjualan bulanan.
 
 Fokus Penjualan B2B: Tingkatkan alokasi tim pemasaran untuk menggarap segmen Corporate mengingat nilai AOV yang signifikan lebih besar.
 
-🚀 How to Run This Project
+## 🚀 How to Run This Project
 Database Setup (SQL):
 
 Jalankan file sql/01_schema_definition.sql di MySQL Workbench / Terminal untuk membuat struktur basis data.
